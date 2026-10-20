@@ -1,0 +1,5489 @@
+{
+  "added": [
+    {
+      "appid": 70,
+      "icon_hash": "95be6d131fc61f145797317ca437c9765f24b41c",
+      "last_played_unix": 0,
+      "name": "Half-Life",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 220,
+      "icon_hash": "fcfb366051782b8ebf2aa297f3b746395858cb62",
+      "last_played_unix": 1404366014,
+      "name": "Half-Life 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 609
+    },
+    {
+      "appid": 320,
+      "icon_hash": "795e85364189511f4990861b578084deef086cb1",
+      "last_played_unix": 0,
+      "name": "Half-Life 2: Deathmatch",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 360,
+      "icon_hash": "40b8a62efff5a9ab356e5c56f5c8b0532c8e1aa3",
+      "last_played_unix": 0,
+      "name": "Half-Life Deathmatch: Source",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 400,
+      "icon_hash": "cfa928ab4119dd137e50d728e8fe703e4e970aff",
+      "last_played_unix": 1630635097,
+      "name": "Portal",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 383
+    },
+    {
+      "appid": 440,
+      "icon_hash": "f568912870a4684f9ec76277a1a404dda6bab213",
+      "last_played_unix": 1527386588,
+      "name": "Team Fortress 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1787
+    },
+    {
+      "appid": 550,
+      "icon_hash": "7d5a243f9500d2f8467312822f8af2a2928777ed",
+      "last_played_unix": 1623720923,
+      "name": "Left 4 Dead 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 307
+    },
+    {
+      "appid": 570,
+      "icon_hash": "48eb825bb93787945065b460bdc109e395384ebf",
+      "last_played_unix": 1524763203,
+      "name": "Dota 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 5501
+    },
+    {
+      "appid": 620,
+      "icon_hash": "25a5a16b2423bf7487ac5340b5b0948cef48c5f8",
+      "last_played_unix": 1788107440,
+      "name": "Portal 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 944
+    },
+    {
+      "appid": 730,
+      "icon_hash": "8dbc71957312bbd3baea65848b545be9eae2a355",
+      "last_played_unix": 1788834150,
+      "name": "Counter-Strike 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 38092
+    },
+    {
+      "appid": 1250,
+      "icon_hash": "d8a2d777cb4c59cf06aa244166db232336520547",
+      "last_played_unix": 1527477979,
+      "name": "Killing Floor",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 371
+    },
+    {
+      "appid": 1700,
+      "icon_hash": "6b7c24e6b189bed8acfd2952e47afe9a161c5220",
+      "last_played_unix": 0,
+      "name": "Arx Fatalis",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2100,
+      "icon_hash": "5a08cd17d14ccb07a14f316dfa222b18a20960fd",
+      "last_played_unix": 0,
+      "name": "Dark Messiah of Might & Magic Single Player",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2130,
+      "icon_hash": "5a08cd17d14ccb07a14f316dfa222b18a20960fd",
+      "last_played_unix": 0,
+      "name": "Dark Messiah of Might & Magic Multi-Player",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2990,
+      "icon_hash": "0e4abf32430e26b53ee0acd5d0396e1b2ec352f1",
+      "last_played_unix": 1761009509,
+      "name": "FlatOut 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 46
+    },
+    {
+      "appid": 3590,
+      "icon_hash": "d2a9c24de11210560f579e7fd9303960c5060155",
+      "last_played_unix": 1585680689,
+      "name": "Plants vs. Zombies: Game of the Year",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 663
+    },
+    {
+      "appid": 3700,
+      "icon_hash": "0ee0de6ae8989f64af446546a938731cd7df1371",
+      "last_played_unix": 1597330456,
+      "name": "Sniper Elite",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 12
+    },
+    {
+      "appid": 4000,
+      "icon_hash": "4a6f25cfa2426445d0d9d6e233408de4d371ce8b",
+      "last_played_unix": 1589083075,
+      "name": "Garry's Mod",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 9530
+    },
+    {
+      "appid": 6060,
+      "icon_hash": "f6302406e215af8cff3533a747d30387f68bef2a",
+      "last_played_unix": 1783901230,
+      "name": "Star Wars: Battlefront 2 (Classic, 2005)",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 430
+    },
+    {
+      "appid": 6080,
+      "icon_hash": "8fa0c644ce8c73903a8d7b47c4ab96fb0ea73e68",
+      "last_played_unix": 1748926336,
+      "name": "Thrillville: Off the Rails",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 526
+    },
+    {
+      "appid": 6880,
+      "icon_hash": "aeaef41cac61d12ef93cf5eddc86859b1f0c73fa",
+      "last_played_unix": 1428814061,
+      "name": "Just Cause",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 43
+    },
+    {
+      "appid": 7200,
+      "icon_hash": "b0f0f3d5dd5cd849bc6f61283fa3266fe3b5c39b",
+      "last_played_unix": 1641444640,
+      "name": "TrackMania United Forever",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1311
+    },
+    {
+      "appid": 7940,
+      "icon_hash": "b40c43b0b14b7e124553e0220581a1b9ef8e38bf",
+      "last_played_unix": 0,
+      "name": "Call of Duty 4: Modern Warfare (2007)",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 8190,
+      "icon_hash": "73582e392a2b9413fe93b011665a5b9cf26ff175",
+      "last_played_unix": 1649018707,
+      "name": "Just Cause 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 5433
+    },
+    {
+      "appid": 8930,
+      "icon_hash": "fbe80c4743e226f0bf65559c91b12953d4446808",
+      "last_played_unix": 1582320196,
+      "name": "Sid Meier's Civilization V",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 8215
+    },
+    {
+      "appid": 8980,
+      "icon_hash": "eb45fb32b7f4e75564a30a52aa3c35a191253ea0",
+      "last_played_unix": 1521426874,
+      "name": "Borderlands GOTY",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 17
+    },
+    {
+      "appid": 10090,
+      "icon_hash": "2bfb85222af4a01842baa5c3a16a080eb27ac6c3",
+      "last_played_unix": 1761004457,
+      "name": "Call of Duty: World at War",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 13
+    },
+    {
+      "appid": 10180,
+      "icon_hash": "ad502494f1658220f9166c7e17ac90422bf6a479",
+      "last_played_unix": 0,
+      "name": "Call of Duty: Modern Warfare 2 (2009)",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 10190,
+      "icon_hash": "7dd7c2d5bce2413131762d7cbee3f059614ed69d",
+      "last_played_unix": 0,
+      "name": "Call of Duty: Modern Warfare 2 (2009) - Multiplayer",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 12210,
+      "icon_hash": "a3cf6a64c73f991898a9e34681d0db8226eaa191",
+      "last_played_unix": 1726020581,
+      "name": "Grand Theft Auto IV: The Complete Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 715
+    },
+    {
+      "appid": 13520,
+      "icon_hash": "76f5a80c061ffb5553619fc2b54e6e3a44dfd0fb",
+      "last_played_unix": 1416196487,
+      "name": "Far Cry",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 42
+    },
+    {
+      "appid": 15120,
+      "icon_hash": "ba7f6e645dd1b070ca8a367ae18d2eaba7f0a526",
+      "last_played_unix": 1562463537,
+      "name": "Tom Clancy's Rainbow Six: Vegas 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 20
+    },
+    {
+      "appid": 17410,
+      "icon_hash": "cfea4731163004b2e5117c3b42a798c48c483d8f",
+      "last_played_unix": 1510112640,
+      "name": "Mirror's Edge",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1705
+    },
+    {
+      "appid": 17430,
+      "icon_hash": "851262b86d0cabde463381f1524a39492b662d06",
+      "last_played_unix": 1472423974,
+      "name": "Need for Speed: Undercover",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 8
+    },
+    {
+      "appid": 19900,
+      "icon_hash": "c73f0c967f77518128c6f2a3f0c4069ff49b1441",
+      "last_played_unix": 1427316099,
+      "name": "Far Cry 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 137
+    },
+    {
+      "appid": 20920,
+      "icon_hash": "62dd5c627664df1bcabc47727c7dcd7ccab353e9",
+      "last_played_unix": 1455512216,
+      "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 856
+    },
+    {
+      "appid": 22230,
+      "icon_hash": "775c7ad571b7571aec5a85235759fbc2baa12eee",
+      "last_played_unix": 0,
+      "name": "Rock of Ages",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 22380,
+      "icon_hash": "1711fd8c46d739feec76bd4a64eaeeca5b87e3a7",
+      "last_played_unix": 1715834293,
+      "name": "Fallout: New Vegas",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 3848
+    },
+    {
+      "appid": 24740,
+      "icon_hash": "eca9b0f2936018e277ee68450cd4fa8d1d3ca3e7",
+      "last_played_unix": 1571860950,
+      "name": "Burnout Paradise: The Ultimate Box",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 78
+    },
+    {
+      "appid": 24870,
+      "icon_hash": "ac95a6c31c5ccb1a9d201c47437d25f0a5ac3c9a",
+      "last_played_unix": 0,
+      "name": "Need for Speed: SHIFT",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 24880,
+      "icon_hash": "fd29235b1565127a71fd1065a4347d4ea780f1fc",
+      "last_played_unix": 1711172148,
+      "name": "The Saboteur™",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 8
+    },
+    {
+      "appid": 24960,
+      "icon_hash": "3a8b5c53efd00554eb3315681754974c3edf1c41",
+      "last_played_unix": 1676521544,
+      "name": "Battlefield: Bad Company™ 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 6147
+    },
+    {
+      "appid": 32330,
+      "icon_hash": "fa17f5fb454538246714badc84743e6c63380f18",
+      "last_played_unix": 1761004738,
+      "name": "LEGOⓇ Indiana Jones™: The Original Adventures",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2
+    },
+    {
+      "appid": 32370,
+      "icon_hash": "018b6650c8de8c9c36d957cf6f8bc11d0c21d083",
+      "last_played_unix": 1585674678,
+      "name": "STAR WARS™ Knights of the Old Republic™",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 153
+    },
+    {
+      "appid": 32440,
+      "icon_hash": "096307d4ae0decd6a331e381f8dd464d75e3d9d6",
+      "last_played_unix": 1782090613,
+      "name": "LEGO® Star Wars™: The Complete Saga",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 174
+    },
+    {
+      "appid": 32670,
+      "icon_hash": "0a09d213759a02159ce584b49441fbbd42558e86",
+      "last_played_unix": 1772329022,
+      "name": "Delta Force: Black Hawk Down",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 48
+    },
+    {
+      "appid": 32680,
+      "icon_hash": "0a09d213759a02159ce584b49441fbbd42558e86",
+      "last_played_unix": 0,
+      "name": "Delta Force: Black Hawk Down - Team Sabre",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 33100,
+      "icon_hash": "3f1717aa391c236c4b7e728a84a4da531acbad7e",
+      "last_played_unix": 0,
+      "name": "Alien Shooter",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 33230,
+      "icon_hash": "0492d8ee860ac99168e46efeb003029c3224cb38",
+      "last_played_unix": 0,
+      "name": "Assassin's Creed II",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 35420,
+      "icon_hash": "ae7580a60cf77b754c723c72d5e31d530fbe7804",
+      "last_played_unix": 0,
+      "name": "Killing Floor Mod: Defence Alliance 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 35450,
+      "icon_hash": "d70423dddb3bb2a144e38ab9cc811e6fda1eb622",
+      "last_played_unix": 1662342124,
+      "name": "Rising Storm/Red Orchestra 2 Multiplayer",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2169
+    },
+    {
+      "appid": 39000,
+      "icon_hash": "24b18829c461e2db0a9962ce0aaeb5dfa3d381d8",
+      "last_played_unix": 1495302314,
+      "name": "Moonbase Alpha",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 38
+    },
+    {
+      "appid": 40990,
+      "icon_hash": "3c86a0fd4f94a97b6f4ce31b5c31532e2098fe7b",
+      "last_played_unix": 1585006172,
+      "name": "Mafia",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 15
+    },
+    {
+      "appid": 42680,
+      "icon_hash": "c3330a875925437d8216949b6571f6e941ba0679",
+      "last_played_unix": 0,
+      "name": "Call of Duty®: Modern Warfare® 3 (2011)",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 42690,
+      "icon_hash": "c3330a875925437d8216949b6571f6e941ba0679",
+      "last_played_unix": 0,
+      "name": "Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 42700,
+      "icon_hash": "ea744d59efded3feaeebcafed224be9eadde90ac",
+      "last_played_unix": 1754945903,
+      "name": "Call of Duty: Black Ops",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 13
+    },
+    {
+      "appid": 42710,
+      "icon_hash": "d595fb4b01201cade09e1232f2c41c0866840628",
+      "last_played_unix": 0,
+      "name": "Call of Duty: Black Ops - Multiplayer",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 43110,
+      "icon_hash": "a70fe6dc214f24107d20596f3040dbfa220ed42d",
+      "last_played_unix": 1541721866,
+      "name": "Metro 2033",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 10
+    },
+    {
+      "appid": 44350,
+      "icon_hash": "78dfd2533e0ee4cdf981cf13fbdea9596f1ed433",
+      "last_played_unix": 1514562887,
+      "name": "GRID 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1266
+    },
+    {
+      "appid": 46510,
+      "icon_hash": "7648a84341ef713722ca5a33a962defe39f3e5b8",
+      "last_played_unix": 0,
+      "name": "Syberia 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 47870,
+      "icon_hash": "4066e98d482110d2ee745d3a415d80d36336eb33",
+      "last_played_unix": 1471997496,
+      "name": "Need for Speed: Hot Pursuit",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 17
+    },
+    {
+      "appid": 47920,
+      "icon_hash": "b2a4ffa34fa5b677575788c4944e5671fab76ec2",
+      "last_played_unix": 1471984886,
+      "name": "Shift 2 Unleashed",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 13
+    },
+    {
+      "appid": 48700,
+      "icon_hash": "0773e90a6991a5427df4ee516687d832d92b050e",
+      "last_played_unix": 1497056605,
+      "name": "Mount & Blade: Warband",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1558
+    },
+    {
+      "appid": 49520,
+      "icon_hash": "a3f4945226e69b6196074df4c776e342d3e5a3be",
+      "last_played_unix": 1731029964,
+      "name": "Borderlands 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 568
+    },
+    {
+      "appid": 50130,
+      "icon_hash": "62f1f7324e520be067aec1ab06d1ec6fa56f25bd",
+      "last_played_unix": 1662688952,
+      "name": "Mafia II (Classic)",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 4243
+    },
+    {
+      "appid": 55110,
+      "icon_hash": "e59c7e741c05c9071176b270bdbb733afe55c751",
+      "last_played_unix": 1450247413,
+      "name": "Red Faction: Armageddon",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 242
+    },
+    {
+      "appid": 63380,
+      "icon_hash": "0092da2541424d4c1d10c1757dcb8104c37323ac",
+      "last_played_unix": 1597330949,
+      "name": "Sniper Elite V2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 8
+    },
+    {
+      "appid": 72850,
+      "icon_hash": "b9aca8a189abd8d6aaf09047dbb0f57582683e1c",
+      "last_played_unix": 1595811189,
+      "name": "The Elder Scrolls V: Skyrim",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2338
+    },
+    {
+      "appid": 96000,
+      "icon_hash": "190760c7966fda0b4be9605de836e031f448fc49",
+      "last_played_unix": 0,
+      "name": "The Tiny Bang Story",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 98400,
+      "icon_hash": "7b78a792e27095d927b7a7f0a1394813bcfba177",
+      "last_played_unix": 0,
+      "name": "Hard Reset",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 102500,
+      "icon_hash": "41b9bfd1d6b5900daea157618a4b8458ff85ba2c",
+      "last_played_unix": 1487742430,
+      "name": "Kingdoms of Amalur: Reckoning™",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 101
+    },
+    {
+      "appid": 105600,
+      "icon_hash": "858961e95fbf869f136e1770d586e0caefd4cfac",
+      "last_played_unix": 1687743706,
+      "name": "Terraria",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 15987
+    },
+    {
+      "appid": 107100,
+      "icon_hash": "8377b4460f19465c261673f76f2656bdb3288273",
+      "last_played_unix": 1496709365,
+      "name": "Bastion",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 211
+    },
+    {
+      "appid": 107410,
+      "icon_hash": "3212af52faf994c558bd622cb0f360c1ef295a6b",
+      "last_played_unix": 1749526151,
+      "name": "Arma 3",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 7327
+    },
+    {
+      "appid": 108600,
+      "icon_hash": "2bd4642ae337e378e7b04a19d19683425c5f81a4",
+      "last_played_unix": 1782180363,
+      "name": "Project Zomboid",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 36
+    },
+    {
+      "appid": 108710,
+      "icon_hash": "ec7953511aaaf5a2c2093b872b5b43c6cab56462",
+      "last_played_unix": 1527554248,
+      "name": "Alan Wake",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 530
+    },
+    {
+      "appid": 110800,
+      "icon_hash": "ee09d4d2552e52c78d139a3b6dbe60173079d9f8",
+      "last_played_unix": 1683954680,
+      "name": "L.A. Noire",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 297
+    },
+    {
+      "appid": 203160,
+      "icon_hash": "3ee640a8aba6992678e36f4e40cba9c71c02348b",
+      "last_played_unix": 1423941893,
+      "name": "Tomb Raider",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 517
+    },
+    {
+      "appid": 203770,
+      "icon_hash": "56e9c15cbeb6c1f873f7f1dc757bae7618861484",
+      "last_played_unix": 0,
+      "name": "Crusader Kings II",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 204100,
+      "icon_hash": "96af86331719b56cefc55298b4fcb99c99f1cfee",
+      "last_played_unix": 1527387093,
+      "name": "Max Payne 3",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1136
+    },
+    {
+      "appid": 205100,
+      "icon_hash": "74f8ee1ba536e0759e64a9bf801fc013e16c8dd1",
+      "last_played_unix": 1515738660,
+      "name": "Dishonored",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 621
+    },
+    {
+      "appid": 205950,
+      "icon_hash": "884cfa9f5f615e297f8c53a2010f1b63835e44b5",
+      "last_played_unix": 1575504417,
+      "name": "Jet Set Radio",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 9
+    },
+    {
+      "appid": 208580,
+      "icon_hash": "1c9e1a68198c15eb47b35c692fbfa5adeb7a6566",
+      "last_played_unix": 1583273768,
+      "name": "STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 155
+    },
+    {
+      "appid": 208650,
+      "icon_hash": "f6c2ce13796844750dfbd01685fb009eeac4bf70",
+      "last_played_unix": 1674503199,
+      "name": "Batman™: Arkham Knight",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 29
+    },
+    {
+      "appid": 209080,
+      "icon_hash": "968e8c0b7a55f0229392278123dfd486140c9421",
+      "last_played_unix": 1541721137,
+      "name": "Guns of Icarus Online",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2
+    },
+    {
+      "appid": 210770,
+      "icon_hash": "4cdfa1d19be460374a111b718ce3a204f21ea1dc",
+      "last_played_unix": 1580432162,
+      "name": "Sanctum 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 102
+    },
+    {
+      "appid": 211820,
+      "icon_hash": "4dbf4041c33eb2edfc41f552320a2e584519134c",
+      "last_played_unix": 1560824634,
+      "name": "Starbound",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 502
+    },
+    {
+      "appid": 212680,
+      "icon_hash": "e8770ddb95fde0804694b116dfe3479f5a65900d",
+      "last_played_unix": 1737001257,
+      "name": "FTL: Faster Than Light",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1680
+    },
+    {
+      "appid": 214420,
+      "icon_hash": "65d89df83c6909a93a862c1abf9a0e53ce768be5",
+      "last_played_unix": 1437103883,
+      "name": "Gear Up",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 95
+    },
+    {
+      "appid": 214510,
+      "icon_hash": "aa7d4b19990dfe8e29de2bb90be5fcef58a78a89",
+      "last_played_unix": 0,
+      "name": "LEGO® The Lord of the Rings™",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 218230,
+      "icon_hash": "f09d788b57eccd48ad9a6d1ec0dbf0707db39612",
+      "last_played_unix": 1437275171,
+      "name": "PlanetSide 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 624
+    },
+    {
+      "appid": 218620,
+      "icon_hash": "8fce45cbb0dee03e87cd30b96ac5e5c3d4b2c494",
+      "last_played_unix": 1575776869,
+      "name": "PAYDAY 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1156
+    },
+    {
+      "appid": 219150,
+      "icon_hash": "493c0a3e823c60c14f91204526f26cc064ed7c84",
+      "last_played_unix": 1500745452,
+      "name": "Hotline Miami",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 734
+    },
+    {
+      "appid": 220200,
+      "icon_hash": "6dc8c1377c6b0ffedaeaec59c253f8c33fb3e62b",
+      "last_played_unix": 1577463397,
+      "name": "Kerbal Space Program",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2936
+    },
+    {
+      "appid": 220240,
+      "icon_hash": "8231f43d3dd47fb4b4111fd6bd4a849e73eb0520",
+      "last_played_unix": 1776027517,
+      "name": "Far Cry® 3",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 976
+    },
+    {
+      "appid": 221100,
+      "icon_hash": "16a985dfee9b093d76a0ffc4cf4c77ba20c2eb0d",
+      "last_played_unix": 1450304833,
+      "name": "DayZ",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1397
+    },
+    {
+      "appid": 221910,
+      "icon_hash": "d4958966dbc02d7a282c52552f71ce6910957b63",
+      "last_played_unix": 1632321880,
+      "name": "The Stanley Parable",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2167
+    },
+    {
+      "appid": 222480,
+      "icon_hash": "5725845fe83f846a04135034c5be55aef008c725",
+      "last_played_unix": 0,
+      "name": "Resident Evil Revelations",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 222880,
+      "icon_hash": "b072fc4239951c1952f4877edde340419438b528",
+      "last_played_unix": 1535089748,
+      "name": "Insurgency",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1888
+    },
+    {
+      "appid": 223470,
+      "icon_hash": "1b6787955f48e75db92205e7db5ad820cf7d5251",
+      "last_played_unix": 1427997430,
+      "name": "POSTAL 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 169
+    },
+    {
+      "appid": 223710,
+      "icon_hash": "962637bf69fddc5466b042c748b6408d2901f25c",
+      "last_played_unix": 1482633350,
+      "name": "Cry of Fear",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 373
+    },
+    {
+      "appid": 223750,
+      "icon_hash": "f709dbfd1d2ad385ae5baaa1824422c11a4a2dea",
+      "last_played_unix": 1421000220,
+      "name": "DCS World Steam Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 60
+    },
+    {
+      "appid": 225540,
+      "icon_hash": "c82c69c8d616d9d273d749e3dd3bd7a0f9da594a",
+      "last_played_unix": 1684424664,
+      "name": "Just Cause 3",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 5436
+    },
+    {
+      "appid": 225840,
+      "icon_hash": "b552055c69f4b4b05195b72805ed0bff09cf1e93",
+      "last_played_unix": 1640230654,
+      "name": "Sven Co-op",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1166
+    },
+    {
+      "appid": 227300,
+      "icon_hash": "adc18a4fc9adc0330144b76d61cbda68bb2394a0",
+      "last_played_unix": 1516624136,
+      "name": "Euro Truck Simulator 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 71
+    },
+    {
+      "appid": 227940,
+      "icon_hash": "64f09c15e558464a40ced00a9ef35ed13542e144",
+      "last_played_unix": 1411424234,
+      "name": "Heroes & Generals",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 225
+    },
+    {
+      "appid": 228300,
+      "icon_hash": "3a8acb47f7aa7381f08588be7f2a5267c52baa7f",
+      "last_played_unix": 1480741824,
+      "name": "Remember Me",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 528
+    },
+    {
+      "appid": 228380,
+      "icon_hash": "2c93b44a991870cff51b8f77096969201771d2e9",
+      "last_played_unix": 1772160646,
+      "name": "Wreckfest",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 46
+    },
+    {
+      "appid": 230410,
+      "icon_hash": "22064646470f4c53388ba87774c7ac10f0a91ffa",
+      "last_played_unix": 1542437736,
+      "name": "Warframe",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 975
+    },
+    {
+      "appid": 231430,
+      "icon_hash": "5e7e1866fb4f33a17393b0441cd1c750dbd91c5f",
+      "last_played_unix": 0,
+      "name": "Company of Heroes 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 232090,
+      "icon_hash": "15837cefb378766e9916548f8591b6eb490b9e52",
+      "last_played_unix": 1521337568,
+      "name": "Killing Floor 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 174
+    },
+    {
+      "appid": 233130,
+      "icon_hash": "5d7c205ce18f17a99c95ff81499c2f496e0570f2",
+      "last_played_unix": 0,
+      "name": "Shadow Warrior",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 233270,
+      "icon_hash": "37ea239abeef5c5b2a90a2f821aaab745633972a",
+      "last_played_unix": 1436735695,
+      "name": "Far Cry® 3 Blood Dragon",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 82
+    },
+    {
+      "appid": 233450,
+      "icon_hash": "c166c7911beec4d63a74cdddf25f26b73c84556b",
+      "last_played_unix": 1594589468,
+      "name": "Prison Architect",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 52
+    },
+    {
+      "appid": 233860,
+      "icon_hash": "9e8fa3ef841ba1861b2b8aa1254532bb4eee954b",
+      "last_played_unix": 1638905672,
+      "name": "Kenshi",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 44
+    },
+    {
+      "appid": 234140,
+      "icon_hash": "71a4dd52273b749f96913a48dd6f439fb5ddc23e",
+      "last_played_unix": 1520246863,
+      "name": "Mad Max",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 489
+    },
+    {
+      "appid": 234270,
+      "icon_hash": "7789b6c8086fd84e06d8f55b4f8ee34dd58b10ec",
+      "last_played_unix": 1538456343,
+      "name": "Ken Follett's The Pillars of the Earth",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 3
+    },
+    {
+      "appid": 236390,
+      "icon_hash": "c69fbafb6e9891314cc5df0fe6a659612c289bf9",
+      "last_played_unix": 1463957347,
+      "name": "War Thunder",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 768
+    },
+    {
+      "appid": 236870,
+      "icon_hash": "a4c559b6a3a7706d2f6c44a84e1daa8532bee741",
+      "last_played_unix": 1554859744,
+      "name": "HITMAN™",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1871
+    },
+    {
+      "appid": 238090,
+      "icon_hash": "addaab4e7308d808f53d32fbcdec0d9c2deb20fd",
+      "last_played_unix": 1750215103,
+      "name": "Sniper Elite 3",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 200
+    },
+    {
+      "appid": 238430,
+      "icon_hash": "5b4f22ca04d338866b0c904af3166d9e939027f2",
+      "last_played_unix": 1494193839,
+      "name": "Contagion",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 642
+    },
+    {
+      "appid": 238460,
+      "icon_hash": "2f258aaff583d797812cdcf24830d5992f48733b",
+      "last_played_unix": 1584472728,
+      "name": "BattleBlock Theater",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 96
+    },
+    {
+      "appid": 239030,
+      "icon_hash": "102e22fc7e0689cb5a9d8cfdd5a6725d571d1a0f",
+      "last_played_unix": 1687750179,
+      "name": "Papers, Please",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1276
+    },
+    {
+      "appid": 239090,
+      "icon_hash": "8d758907472e027382a80133bcdb9b6e63b2df0e",
+      "last_played_unix": 0,
+      "name": "Samurai GUNN",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 239820,
+      "icon_hash": "f63ee73113b0880922a84e8d6af0d222fef91c40",
+      "last_played_unix": 1762225220,
+      "name": "Game Dev Tycoon",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1378
+    },
+    {
+      "appid": 241930,
+      "icon_hash": "161afab3c9f725f593635723cc64a7fbeb324ead",
+      "last_played_unix": 1523836330,
+      "name": "Middle-earth™: Shadow of Mordor™",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2059
+    },
+    {
+      "appid": 242050,
+      "icon_hash": "a03c06290af00eed66814815663b68f5fd063882",
+      "last_played_unix": 0,
+      "name": "Assassin's Creed IV Black Flag",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 242760,
+      "icon_hash": "3a6847f6ac5879e48531db52261771d5e22904ac",
+      "last_played_unix": 1679789065,
+      "name": "The Forest",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2511
+    },
+    {
+      "appid": 242860,
+      "icon_hash": "2f4451d2bd41acf3fa7fc599935b8e4d8cb20593",
+      "last_played_unix": 0,
+      "name": "Verdun",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 242920,
+      "icon_hash": "1c499bc7d659ddde65a1cd3f2cd7b6122211b4b1",
+      "last_played_unix": 1661568976,
+      "name": "Banished",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 648
+    },
+    {
+      "appid": 243870,
+      "icon_hash": "7ca714724bfc22fc9601d8b65f65c47f5d4103f3",
+      "last_played_unix": 1411925539,
+      "name": "Tom Clancy's Ghost Recon Phantoms - NA",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 46
+    },
+    {
+      "appid": 244160,
+      "icon_hash": "8c74f09dfd9598adab163b2000e9696faff73024",
+      "last_played_unix": 0,
+      "name": "Homeworld Remastered Collection",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 244630,
+      "icon_hash": "2a2ae725bec9293a5ef851302e15a977739fdc90",
+      "last_played_unix": 1408158675,
+      "name": "NEOTOKYO°",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 38
+    },
+    {
+      "appid": 244850,
+      "icon_hash": "f9856a90000d88e9a89441a7381fe9877e91eaca",
+      "last_played_unix": 1545268992,
+      "name": "Space Engineers",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 5371
+    },
+    {
+      "appid": 244930,
+      "icon_hash": "7e90f75e6236774b3e9069e17b3acc3491128166",
+      "last_played_unix": 1515211113,
+      "name": "SNOW",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 32
+    },
+    {
+      "appid": 246900,
+      "icon_hash": "468438972a79636192adf089d3f830aad072a844",
+      "last_played_unix": 1685125388,
+      "name": "Viscera Cleanup Detail",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 345
+    },
+    {
+      "appid": 249050,
+      "icon_hash": "19f66db5192b05b71068dd243729c3d8b0d71f65",
+      "last_played_unix": 1552796276,
+      "name": "Dungeon of the ENDLESS™",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 65
+    },
+    {
+      "appid": 250600,
+      "icon_hash": "1a07cd58c006e4c84569c9787b78933033c0368a",
+      "last_played_unix": 1685334874,
+      "name": "The Plan",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 7
+    },
+    {
+      "appid": 250680,
+      "icon_hash": "106d9b3425118196cc39198e884ce0f8613ebe6e",
+      "last_played_unix": 0,
+      "name": "BELOW",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 251570,
+      "icon_hash": "f6515dd177b2992aebcb563151fbe836a600f364",
+      "last_played_unix": 1540183620,
+      "name": "7 Days to Die",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1899
+    },
+    {
+      "appid": 252110,
+      "icon_hash": "1661236ad6879957c73f0090efee34cdba2be649",
+      "last_played_unix": 1551644663,
+      "name": "Lovers in a Dangerous Spacetime",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 127
+    },
+    {
+      "appid": 252370,
+      "icon_hash": "17e7b0017bb53b72392350f1de5a607ed0f65afd",
+      "last_played_unix": 1573022470,
+      "name": "The Shivah",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 28
+    },
+    {
+      "appid": 252490,
+      "icon_hash": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c",
+      "last_played_unix": 1658601207,
+      "name": "Rust",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 628
+    },
+    {
+      "appid": 252950,
+      "icon_hash": "9ad6dd3d173523354385955b5fb2af87639c4163",
+      "last_played_unix": 1780170757,
+      "name": "Rocket League",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 3610
+    },
+    {
+      "appid": 253230,
+      "icon_hash": "7b934282eeb45507669ed7c08378c51bb902721f",
+      "last_played_unix": 1551643650,
+      "name": "A Hat in Time",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 111
+    },
+    {
+      "appid": 255520,
+      "icon_hash": "56c3840d52a0da4f397d9991d368c75ed53d99fa",
+      "last_played_unix": 0,
+      "name": "Viscera Cleanup Detail: Shadow Warrior",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 255710,
+      "icon_hash": "6cf7b10dd29db28448ef79698ed2118a03617d63",
+      "last_played_unix": 1788898044,
+      "name": "Cities: Skylines",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 5921
+    },
+    {
+      "appid": 257850,
+      "icon_hash": "d7d57d58051fec87e4b5c54bbac5bfacdd0ac964",
+      "last_played_unix": 0,
+      "name": "Hyper Light Drifter",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 258520,
+      "icon_hash": "d94c31f17ff27a733fd01ecf929106264b89b8b5",
+      "last_played_unix": 0,
+      "name": "The Vanishing of Ethan Carter",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 261550,
+      "icon_hash": "896d5f4214e4e185a20af51b46d9dea2e6f4aaad",
+      "last_played_unix": 1777942299,
+      "name": "Mount & Blade II: Bannerlord",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 3986
+    },
+    {
+      "appid": 261640,
+      "icon_hash": "af5ef05eac8b1eb618e4f57354ac7b3e918ab1bd",
+      "last_played_unix": 1540615959,
+      "name": "Borderlands: The Pre-Sequel",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 865
+    },
+    {
+      "appid": 262650,
+      "icon_hash": "1c23de32c170289556e582102b711aac2ced12c1",
+      "last_played_unix": 1404089158,
+      "name": "RaySupreme 3D",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 9
+    },
+    {
+      "appid": 263280,
+      "icon_hash": "6fb95ad2bbca0c7e3dd2d5b4257d5afb8bec341a",
+      "last_played_unix": 1594513978,
+      "name": "Spintires®",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 29
+    },
+    {
+      "appid": 264710,
+      "icon_hash": "8a14ceef6e230330a916d7a6324b8c52d464d569",
+      "last_played_unix": 1682009179,
+      "name": "Subnautica",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2835
+    },
+    {
+      "appid": 265210,
+      "icon_hash": "3ddf9cd4df46fda7ed35cd3e79f04bc0dfd28ee9",
+      "last_played_unix": 0,
+      "name": "Viscera Cleanup Detail: Santa's Rampage",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 265690,
+      "icon_hash": "54258e735824e583e2d8aebe3f72774f887b330f",
+      "last_played_unix": 1607824024,
+      "name": "NaissanceE",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 7
+    },
+    {
+      "appid": 265930,
+      "icon_hash": "edf6c28b83d5fc221338ff71d01caa11d11d3b50",
+      "last_played_unix": 1504807064,
+      "name": "Goat Simulator",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 554
+    },
+    {
+      "appid": 268910,
+      "icon_hash": "c19f1bd916b6d171e94089d03112ec4e4e4da84e",
+      "last_played_unix": 1535698531,
+      "name": "Cuphead",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 522
+    },
+    {
+      "appid": 270370,
+      "icon_hash": "8c6c81dabcf3576dc8492bcdf03a466b88e92abc",
+      "last_played_unix": 1422245337,
+      "name": "Lambda Wars",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 60
+    },
+    {
+      "appid": 270880,
+      "icon_hash": "2aec8af4b4b23cb6054d9aea06194621cdd66945",
+      "last_played_unix": 1725492266,
+      "name": "American Truck Simulator",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 296
+    },
+    {
+      "appid": 271290,
+      "icon_hash": "c2ff4b2c2652a897935631b040c5ba135fe655e3",
+      "last_played_unix": 1420836372,
+      "name": "HAWKEN",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 249
+    },
+    {
+      "appid": 271590,
+      "icon_hash": "1e72f87eb927fa1485e68aefaff23c7fd7178251",
+      "last_played_unix": 1596077444,
+      "name": "Grand Theft Auto V Legacy",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 395
+    },
+    {
+      "appid": 272860,
+      "icon_hash": "8297006cb30a121d494b9817f8e5947b610da35f",
+      "last_played_unix": 0,
+      "name": "Wreckfest Throw-A-Santa + Sneak Peek 2.0",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 273110,
+      "icon_hash": "f8de906498a0428e06b5e31450b40093e645abbe",
+      "last_played_unix": 1411589694,
+      "name": "Counter-Strike Nexon",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 16
+    },
+    {
+      "appid": 274170,
+      "icon_hash": "3fc78b615529f78cc24cea247c7b2ee50c551bbd",
+      "last_played_unix": 0,
+      "name": "Hotline Miami 2: Wrong Number",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 275850,
+      "icon_hash": "fccb20f309ac5ae05b3cb4576a8a3357edf86f2e",
+      "last_played_unix": 1776031653,
+      "name": "No Man's Sky",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 56
+    },
+    {
+      "appid": 278360,
+      "icon_hash": "feb33a53334222c82aaf0545e00913bd92bcd3d9",
+      "last_played_unix": 1597285720,
+      "name": "A Story About My Uncle",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 7
+    },
+    {
+      "appid": 278910,
+      "icon_hash": "61ed3055f766216ec01fa4ec620a392de76c8ed2",
+      "last_played_unix": 0,
+      "name": "Interplanetary",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 281990,
+      "icon_hash": "cb4a03deab1e34ed2a5cbbdf419c66bb6459625f",
+      "last_played_unix": 1613862604,
+      "name": "Stellaris",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 92
+    },
+    {
+      "appid": 282070,
+      "icon_hash": "38ad6fd10e2b89ab24e8013584ece7961bebe086",
+      "last_played_unix": 1457329199,
+      "name": "This War of Mine",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 162
+    },
+    {
+      "appid": 282440,
+      "icon_hash": "bac9828d3e193c948801b14660490576fbbf9f72",
+      "last_played_unix": 1495293917,
+      "name": "Quake Live",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 117
+    },
+    {
+      "appid": 284160,
+      "icon_hash": "34f8997c32b2f463caf2014aab4a95109a896ecc",
+      "last_played_unix": 1729567078,
+      "name": "BeamNG.drive",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 38
+    },
+    {
+      "appid": 285160,
+      "icon_hash": "b36006499181631396618d8c32dad8c13c6263ae",
+      "last_played_unix": 1705282434,
+      "name": "LEGO® The Hobbit™",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 281
+    },
+    {
+      "appid": 286160,
+      "icon_hash": "19f5b90e3c7084758f885ded843631b13929fa26",
+      "last_played_unix": 1630954094,
+      "name": "Tabletop Simulator",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 712
+    },
+    {
+      "appid": 286570,
+      "icon_hash": "efba76526ca5cd18fabc9878c840ac583f08ead5",
+      "last_played_unix": 1526769965,
+      "name": "F1 2015",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 13
+    },
+    {
+      "appid": 287700,
+      "icon_hash": "7a1737163c96ea641143db45709a4ac444ba8f7b",
+      "last_played_unix": 1545342815,
+      "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 102
+    },
+    {
+      "appid": 287980,
+      "icon_hash": "1b389229474bb7112d0f0b8189b1cbe4ff8f14b5",
+      "last_played_unix": 1770250285,
+      "name": "Mini Metro",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 78
+    },
+    {
+      "appid": 288470,
+      "icon_hash": "cf33f0a1796aabd7d0ce63af3acda1d81861ce5f",
+      "last_played_unix": 1665187667,
+      "name": "Fable Anniversary",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 26
+    },
+    {
+      "appid": 289070,
+      "icon_hash": "9dc914132fec244adcede62fb8e7524a72a7398c",
+      "last_played_unix": 0,
+      "name": "Sid Meier's Civilization VI",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 289650,
+      "icon_hash": "0629ffe7fc7d88011c5b9705625bfe3791fe0afe",
+      "last_played_unix": 0,
+      "name": "Assassin's Creed Unity",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 291480,
+      "icon_hash": "66ef308279871d99ca776d4602bf02a354570368",
+      "last_played_unix": 1408600082,
+      "name": "Warface: Clutch",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 185
+    },
+    {
+      "appid": 292030,
+      "icon_hash": "7b52d11edee478d652ef4e7103e00644bed2c74c",
+      "last_played_unix": 1653450152,
+      "name": "The Witcher 3: Wild Hunt — Remastered",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 3529
+    },
+    {
+      "appid": 298110,
+      "icon_hash": "be1366a047a515ed2275aa500a36a50de587b7a7",
+      "last_played_unix": 0,
+      "name": "Far Cry 4",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 298260,
+      "icon_hash": "f675495531ca6a73ccf1c7e9eae602e139db1787",
+      "last_played_unix": 1412211798,
+      "name": "Only If",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 79
+    },
+    {
+      "appid": 301520,
+      "icon_hash": "25b4f8bc206a7768638974d991b12d3943729d49",
+      "last_played_unix": 1408213564,
+      "name": "Robocraft",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 16
+    },
+    {
+      "appid": 301640,
+      "icon_hash": "ce8a1505c309b0427f9559e1e7cf8d00c963451b",
+      "last_played_unix": 0,
+      "name": "Zombie Army Trilogy",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 301970,
+      "icon_hash": "286d3208052be52d8e8bb9b29141d5ad0a6bc4cf",
+      "last_played_unix": 0,
+      "name": "Screencheat",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 304390,
+      "icon_hash": "24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6",
+      "last_played_unix": 1542439010,
+      "name": "FOR HONOR",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 467
+    },
+    {
+      "appid": 304930,
+      "icon_hash": "e18009fb628b35953826efe47dc3be556b689f4c",
+      "last_played_unix": 1479618869,
+      "name": "Unturned",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 40
+    },
+    {
+      "appid": 305620,
+      "icon_hash": "e26b78087b75d5e002e92f2bdd73ce6fc4861e56",
+      "last_played_unix": 1632199577,
+      "name": "The Long Dark",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 863
+    },
+    {
+      "appid": 307690,
+      "icon_hash": "8ef5e84ffbd9a4b3fb28d308073bccb415fc25ab",
+      "last_played_unix": 1682140986,
+      "name": "Sleeping Dogs: Definitive Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1683
+    },
+    {
+      "appid": 310380,
+      "icon_hash": "ad6e742508e69c690d94136b3226de22edc42faa",
+      "last_played_unix": 1475298025,
+      "name": "Fractured Space",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 24
+    },
+    {
+      "appid": 310560,
+      "icon_hash": "6af1249ba4f9c521ce981ee040ffa3b9ca603911",
+      "last_played_unix": 1597292416,
+      "name": "DiRT Rally",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1020
+    },
+    {
+      "appid": 311340,
+      "icon_hash": "60ea6c7b08077263bac018bcd32435ec858e867c",
+      "last_played_unix": 0,
+      "name": "METAL GEAR SOLID V: GROUND ZEROES",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 311560,
+      "icon_hash": "422e9d527f4a509a179cfbd2832b47db793d8000",
+      "last_played_unix": 0,
+      "name": "Assassin's Creed Rogue",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 311690,
+      "icon_hash": "b459d94ad4b6a5eabd71005874037b9577a4ca31",
+      "last_played_unix": 0,
+      "name": "Enter the Gungeon",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 312660,
+      "icon_hash": "3a1dbbf59326c0bb78113db7ac0d70b9988b3ce8",
+      "last_played_unix": 1542437572,
+      "name": "Sniper Elite 4",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 110
+    },
+    {
+      "appid": 312670,
+      "icon_hash": "328f1ee6525320b82ad06033da1e0194a9ae0436",
+      "last_played_unix": 0,
+      "name": "Strange Brigade",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 317360,
+      "icon_hash": "e739a26ecad7310a7aeb44d9e6e06654718b2975",
+      "last_played_unix": 1785980170,
+      "name": "Double Action: Boogaloo",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 917
+    },
+    {
+      "appid": 319630,
+      "icon_hash": "e54b13da0710a35e7088664a77632e79157d8332",
+      "last_played_unix": 1495289434,
+      "name": "Life is Strange™",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1226
+    },
+    {
+      "appid": 320040,
+      "icon_hash": "fc61b16cfd617414a286e338968dadf06a74c512",
+      "last_played_unix": 1519410959,
+      "name": "Moon Hunters",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 209
+    },
+    {
+      "appid": 321040,
+      "icon_hash": "fdfb3aa153b57d6ae6cd8099cb4456b3d5b182b6",
+      "last_played_unix": 1699745458,
+      "name": "DiRT 3 Complete Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 968
+    },
+    {
+      "appid": 322110,
+      "icon_hash": "95ac6fcd59b9f68e37ecce346a48ad975eedc2ec",
+      "last_played_unix": 0,
+      "name": "20XX",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 322330,
+      "icon_hash": "a80aa6cff8eebc1cbc18c367d9ab063e1553b0ee",
+      "last_played_unix": 1533440811,
+      "name": "Don't Starve Together",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 298
+    },
+    {
+      "appid": 323190,
+      "icon_hash": "0561084dfe24c469c905fe0681da82aa31102836",
+      "last_played_unix": 1583960584,
+      "name": "Frostpunk",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 253
+    },
+    {
+      "appid": 324800,
+      "icon_hash": "e5bdde6548d967fb456b33b2674be1c8efc2d9ae",
+      "last_played_unix": 0,
+      "name": "Shadow Warrior 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 325180,
+      "icon_hash": "56b06e662e5ffa0f3c1a8248ea0a15bdd4760498",
+      "last_played_unix": 0,
+      "name": "AppGameKit Classic",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 329430,
+      "icon_hash": "735efd15df84e4a9ef9f64a980cd313f5ef325bf",
+      "last_played_unix": 0,
+      "name": "State of Decay: Year-One",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 334210,
+      "icon_hash": "535ed4d2687fbab89d9e60d8cd0fffd2cbeb4b4f",
+      "last_played_unix": 1537208800,
+      "name": "Fortified",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 52
+    },
+    {
+      "appid": 334230,
+      "icon_hash": "fc48df91946a366ed3d9a065aef96b146f33ee76",
+      "last_played_unix": 1589077845,
+      "name": "Town of Salem",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 58
+    },
+    {
+      "appid": 336300,
+      "icon_hash": "05a1781760edd379b97df6087e6a84d89037cd76",
+      "last_played_unix": 1638747905,
+      "name": "Hearthlands",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 6
+    },
+    {
+      "appid": 337490,
+      "icon_hash": "ea883b06b81c73704febf4384077c9997b3e9cf0",
+      "last_played_unix": 0,
+      "name": "Four Sided Fantasy",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 341800,
+      "icon_hash": "932d3af4bd34d38ac47cf47dd0ea1ed624d242e4",
+      "last_played_unix": 1577409504,
+      "name": "Keep Talking and Nobody Explodes",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 284
+    },
+    {
+      "appid": 343860,
+      "icon_hash": "229400424687de7b5ebd9112f31852796092a09f",
+      "last_played_unix": 1585677930,
+      "name": "Tacoma",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 144
+    },
+    {
+      "appid": 346010,
+      "icon_hash": "16667f445723c720782314269e41f9daa8a7fb56",
+      "last_played_unix": 1654491042,
+      "name": "Besiege",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 67
+    },
+    {
+      "appid": 348250,
+      "icon_hash": "6e7575ca3c5ac486c5b6e3520c5b881a0cb61db0",
+      "last_played_unix": 1545936713,
+      "name": "Google Earth VR",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 12
+    },
+    {
+      "appid": 353640,
+      "icon_hash": "242d5e780ad9f6d9cf218177ef7e701b684f8770",
+      "last_played_unix": 1580428782,
+      "name": "Train Valley",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 8
+    },
+    {
+      "appid": 355790,
+      "icon_hash": "566c3445e7f3437ab0c3350af2302cdc38452cb0",
+      "last_played_unix": 1539332708,
+      "name": "Styx: Shards of Darkness",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 95
+    },
+    {
+      "appid": 356190,
+      "icon_hash": "316c479e5d51d21e15eb8f82338fce82c42c4115",
+      "last_played_unix": 1784250390,
+      "name": "Middle-earth™: Shadow of War™",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 3890
+    },
+    {
+      "appid": 359320,
+      "icon_hash": "670f2f289a180f7ac291585df847009640ebf1c5",
+      "last_played_unix": 1545878607,
+      "name": "Elite Dangerous",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 3142
+    },
+    {
+      "appid": 359550,
+      "icon_hash": "624745d333ac54aedb1ee911013e2edb7722550e",
+      "last_played_unix": 1548208198,
+      "name": "Tom Clancy's Rainbow Six Siege",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 208
+    },
+    {
+      "appid": 359840,
+      "icon_hash": "4babaa40ec39ec666b12b54487578770a178a657",
+      "last_played_unix": 0,
+      "name": "Shift Happens",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 360430,
+      "icon_hash": "3df3ee0dfcb254bedbf15822c93a6983f67b0822",
+      "last_played_unix": 1729567373,
+      "name": "Mafia III: Definitive Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 957
+    },
+    {
+      "appid": 360830,
+      "icon_hash": "fb6d9eb80bafcae6e2f34ae627c1445cef739ba6",
+      "last_played_unix": 1550620854,
+      "name": "Yooka-Laylee",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 4
+    },
+    {
+      "appid": 361230,
+      "icon_hash": "baab658bb3e50df2760fd9081ca586f0c4da0df0",
+      "last_played_unix": 0,
+      "name": "Super Daryl Deluxe",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 361420,
+      "icon_hash": "18ef632a152a69a8fb4f62c074cd50aa15d3bf33",
+      "last_played_unix": 1624681553,
+      "name": "ASTRONEER",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 37
+    },
+    {
+      "appid": 363440,
+      "icon_hash": "effb78715008287e9bc5eb68d145676ed38bf1ac",
+      "last_played_unix": 0,
+      "name": "Mega Man Legacy Collection",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 365160,
+      "icon_hash": "3bda8af0bd869def1425a31163da3782074c6882",
+      "last_played_unix": 0,
+      "name": "Kona",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 366090,
+      "icon_hash": "75256b05781040535bfb389e85b1d7cbadd0a58f",
+      "last_played_unix": 1708402056,
+      "name": "Colony Survival",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 9767
+    },
+    {
+      "appid": 366640,
+      "icon_hash": "ea78704dd59161481546c39c017ccb61f195a19f",
+      "last_played_unix": 0,
+      "name": "Shiness: The Lightning Kingdom",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 367270,
+      "icon_hash": "f00dd1ff4a18952fa769afdba93f657a4a0b1957",
+      "last_played_unix": 1784254666,
+      "name": "Angels Fall First",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 70
+    },
+    {
+      "appid": 367520,
+      "icon_hash": "f6ab055c2366237200b1a31cccbd6cf81e436d72",
+      "last_played_unix": 1553390178,
+      "name": "Hollow Knight",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 60
+    },
+    {
+      "appid": 367540,
+      "icon_hash": "9420b506fe5b00fd02d9005f1f5555358e3f71f7",
+      "last_played_unix": 0,
+      "name": "Starbound - Unstable",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 368370,
+      "icon_hash": "116b0c3f9693b9e3f235d22d4269a64c80b763d4",
+      "last_played_unix": 1572795989,
+      "name": "Her Story",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 8
+    },
+    {
+      "appid": 369990,
+      "icon_hash": "b09c60a3c63c5feb3a683510883416d9301a6a5b",
+      "last_played_unix": 0,
+      "name": "Gremlins, Inc.",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 370360,
+      "icon_hash": "42fd5647ea90f7df3a2a0a8991d2eda676c8efa7",
+      "last_played_unix": 1785210700,
+      "name": "TIS-100",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 59
+    },
+    {
+      "appid": 371970,
+      "icon_hash": "9288677a439edf26c4ca28a8de14a0a40e880d15",
+      "last_played_unix": 0,
+      "name": "Barony",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 373930,
+      "icon_hash": "9a1e0a431b625632212f437f22f4e12e0a8f1218",
+      "last_played_unix": 0,
+      "name": "Sudden Strike 4",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 374040,
+      "icon_hash": "464bad8b53edd14ea24f1bf0315a84740220f470",
+      "last_played_unix": 0,
+      "name": "Portal Knights",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 374320,
+      "icon_hash": "7abe1a33129c20cf10d2c74128bbd657a2a2c806",
+      "last_played_unix": 1610949011,
+      "name": "DARK SOULS™ III",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 213
+    },
+    {
+      "appid": 377160,
+      "icon_hash": "779c4356ebe32af2af7c9f0bbba595dfe872cd7f",
+      "last_played_unix": 1482616690,
+      "name": "Fallout 4",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2012
+    },
+    {
+      "appid": 378540,
+      "icon_hash": "244bf4443ab17c0b7cda6fd63bc9bc0291942635",
+      "last_played_unix": 1567747938,
+      "name": "The Surge",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 79
+    },
+    {
+      "appid": 378860,
+      "icon_hash": "cd55d51de2df3a45757aca93b84112576f5b0db3",
+      "last_played_unix": 1568079875,
+      "name": "Project CARS 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 104
+    },
+    {
+      "appid": 379430,
+      "icon_hash": "915ec515c36645855abed0476b5b0891d8a4e47a",
+      "last_played_unix": 1582926967,
+      "name": "Kingdom Come: Deliverance",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 295
+    },
+    {
+      "appid": 379720,
+      "icon_hash": "b6e72ff47d1990cb644700751eeeff14e0aba6dc",
+      "last_played_unix": 1585951085,
+      "name": "DOOM",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 162
+    },
+    {
+      "appid": 381210,
+      "icon_hash": "aa152097a700fd6f4707397ce41794ea30874790",
+      "last_played_unix": 1632635215,
+      "name": "Dead by Daylight",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 79
+    },
+    {
+      "appid": 382000,
+      "icon_hash": "e5599b00d3d82d3e6c474a2c512053360882ff3c",
+      "last_played_unix": 1578039891,
+      "name": "Mindshow",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 308
+    },
+    {
+      "appid": 382310,
+      "icon_hash": "a96eb4bd8b20008867c38bbc400d79003c32d6cf",
+      "last_played_unix": 1639354966,
+      "name": "Eco",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 59
+    },
+    {
+      "appid": 383120,
+      "icon_hash": "ef7a39a74922aa667d685419064e37c6166b911e",
+      "last_played_unix": 1773606200,
+      "name": "Empyrion - Galactic Survival",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 8
+    },
+    {
+      "appid": 383150,
+      "icon_hash": "80d0dabca21c70909e63682512a24ce66c4f5c3b",
+      "last_played_unix": 0,
+      "name": "Dead Island Definitive Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 383870,
+      "icon_hash": "d13e70a08cab192c52104f315a7d68591c085e81",
+      "last_played_unix": 1681927910,
+      "name": "Firewatch",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 333
+    },
+    {
+      "appid": 384110,
+      "icon_hash": "82d398b9e793076ff1fee441e1ac18d6a9cbd280",
+      "last_played_unix": 0,
+      "name": "Pathologic Classic HD",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 386620,
+      "icon_hash": "0ff9cc360bce3fe37d00629dac02ef8afc93ee92",
+      "last_played_unix": 1538456126,
+      "name": "Cook, Serve, Delicious! 2!!",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 9
+    },
+    {
+      "appid": 386940,
+      "icon_hash": "07e45651fd2e37fde1d512c4cb77238ff5ce97c0",
+      "last_played_unix": 1786252563,
+      "name": "Ultimate Chicken Horse",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 179
+    },
+    {
+      "appid": 388410,
+      "icon_hash": "a2d5549090144f1bfd9e00f1b460c1ad0aa9c366",
+      "last_played_unix": 0,
+      "name": "Darksiders II Deathinitive Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 388880,
+      "icon_hash": "ebd4e04badb440be4f2ceca1a9b25efd1054c70e",
+      "last_played_unix": 1541911652,
+      "name": "Oxenfree",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 226
+    },
+    {
+      "appid": 390710,
+      "icon_hash": "1bc9a3edc1a1291f91dafab6040cecc137e8b6cc",
+      "last_played_unix": 0,
+      "name": "Acceleration of SUGURI 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 391220,
+      "icon_hash": "0b8a37f32ed2b7c934be8aa94d53f71e274c6497",
+      "last_played_unix": 1519252528,
+      "name": "Rise of the Tomb Raider",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 814
+    },
+    {
+      "appid": 391540,
+      "icon_hash": "2ce672b89b63ec1e70d2f12862e72eb4a33e9268",
+      "last_played_unix": 1582929147,
+      "name": "Undertale",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 23
+    },
+    {
+      "appid": 393380,
+      "icon_hash": "eb66a8cb52165274c84cae6526205065d13119d5",
+      "last_played_unix": 1765941339,
+      "name": "Squad",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1681
+    },
+    {
+      "appid": 394360,
+      "icon_hash": "67b15e2336311b4b4f1eb5c802af0c0dbe644195",
+      "last_played_unix": 1594359921,
+      "name": "Hearts of Iron IV",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 275
+    },
+    {
+      "appid": 397950,
+      "icon_hash": "dedd6835d801bfaa5d10cd4d70dfecba5510b0ef",
+      "last_played_unix": 1684602111,
+      "name": "Clustertruck",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 161
+    },
+    {
+      "appid": 400430,
+      "icon_hash": "1385cf04f3625f1281c964f070cc6eaeb5642cd3",
+      "last_played_unix": 1509846169,
+      "name": "The Vanishing of Ethan Carter Redux",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 381
+    },
+    {
+      "appid": 400450,
+      "icon_hash": "d8304c9ab7d6ee668bd3514066cd5a05ac2cee0b",
+      "last_played_unix": 0,
+      "name": "NeuroVoider",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 400940,
+      "icon_hash": "c988956eebd2fb61a679a88f2a73642f209595ba",
+      "last_played_unix": 1561612038,
+      "name": "Budget Cuts",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 254
+    },
+    {
+      "appid": 403640,
+      "icon_hash": "6d6bac950a234764a353c518607dcd01973f5b65",
+      "last_played_unix": 1576190699,
+      "name": "Dishonored 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 31
+    },
+    {
+      "appid": 403970,
+      "icon_hash": "53555cbfe16c795b59eca56d925758923aa3f368",
+      "last_played_unix": 0,
+      "name": "The Dwarves",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 405710,
+      "icon_hash": "2c025dc365c080a29d2e2d1411718fd68a8d2c70",
+      "last_played_unix": 1538442920,
+      "name": "Staxel",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 8
+    },
+    {
+      "appid": 407810,
+      "icon_hash": "3dea1679e7c3718eff9c7dd62f6bddb3cee01b7a",
+      "last_played_unix": 0,
+      "name": "Hard Reset Redux",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 410110,
+      "icon_hash": "44d90be23a56866578e405250e6658f6270ba6d7",
+      "last_played_unix": 0,
+      "name": "12 is Better Than 6",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 410900,
+      "icon_hash": "6f66ef3d1d16c7ce05df792b879f9a799221e3da",
+      "last_played_unix": 1568316546,
+      "name": "Forts",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 7
+    },
+    {
+      "appid": 413150,
+      "icon_hash": "35d1377200084a4034238c05b0c8930451e2fb40",
+      "last_played_unix": 1715540769,
+      "name": "Stardew Valley",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 3526
+    },
+    {
+      "appid": 414340,
+      "icon_hash": "8a5d8f2d1cb52b21eaf4f6609592c6634731c962",
+      "last_played_unix": 1583966944,
+      "name": "Hellblade: Senua's Sacrifice",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 88
+    },
+    {
+      "appid": 416680,
+      "icon_hash": "4bba24d4f9354ca7aafdfd5b2b92b0cdd4330904",
+      "last_played_unix": 1585679143,
+      "name": "Zombie Night Terror",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 14
+    },
+    {
+      "appid": 417200,
+      "icon_hash": "46f70f4f4f404d70ce79b2225a8c9d42b8202a70",
+      "last_played_unix": 1638681279,
+      "name": "Make Sail",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 10
+    },
+    {
+      "appid": 418460,
+      "icon_hash": "880aa8749f9fee2ea0f987749b44c769b65ee7a5",
+      "last_played_unix": 1602361160,
+      "name": "Rising Storm 2: Vietnam",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 9
+    },
+    {
+      "appid": 418670,
+      "icon_hash": "646b618afcddf400428cb3e77034be3eb1bbbf80",
+      "last_played_unix": 0,
+      "name": "Pankapu",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 420290,
+      "icon_hash": "e59e4513c41fab6493b80e78a5bfae5252239b71",
+      "last_played_unix": 1540353389,
+      "name": "Blackwake",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 262
+    },
+    {
+      "appid": 423230,
+      "icon_hash": "85ba3f445459796811d4ea9596914e77dcc0a082",
+      "last_played_unix": 1583379261,
+      "name": "Furi",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 144
+    },
+    {
+      "appid": 424840,
+      "icon_hash": "1904c041f963b5e2cb22b56c370444517cc4e288",
+      "last_played_unix": 1541378045,
+      "name": "Little Nightmares",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 6
+    },
+    {
+      "appid": 427410,
+      "icon_hash": "789cca4e4e51a6649f5728d870d3a602e3c453fe",
+      "last_played_unix": 1780451673,
+      "name": "Abiotic Factor",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 5729
+    },
+    {
+      "appid": 427520,
+      "icon_hash": "267f5a89f36ab287e600a4e7d4e73d3d11f0fd7d",
+      "last_played_unix": 1779507249,
+      "name": "Factorio",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 786
+    },
+    {
+      "appid": 429660,
+      "icon_hash": "bc14b91107afcf731e5c324e3f1ef83098d8a8fa",
+      "last_played_unix": 0,
+      "name": "Tales of Berseria",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 431240,
+      "icon_hash": "c6379c8ec66ac02565f1155bf3821b846164d93c",
+      "last_played_unix": 0,
+      "name": "Golf With Your Friends",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 433340,
+      "icon_hash": "814236b2c3a100cf76b00390585f351708e4c1e4",
+      "last_played_unix": 1594515385,
+      "name": "Slime Rancher",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 20
+    },
+    {
+      "appid": 434170,
+      "icon_hash": "2ad3706f17b4e4ab41a337c59a63972cf5d77032",
+      "last_played_unix": 1635050116,
+      "name": "The Jackbox Party Pack 3",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1316
+    },
+    {
+      "appid": 434460,
+      "icon_hash": "d86dc2977052e13da45746297c33d45b9eaf553e",
+      "last_played_unix": 1639372261,
+      "name": "Rock of Ages 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 468
+    },
+    {
+      "appid": 435400,
+      "icon_hash": "a5e0f8ad097cc58e7fd01d779e4585e163bcd909",
+      "last_played_unix": 1539326420,
+      "name": "Hidden Folks",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 11
+    },
+    {
+      "appid": 436780,
+      "icon_hash": "44ef3824349f06cfc147db981718fdfe222bfdf1",
+      "last_played_unix": 1785284344,
+      "name": "Tavern Keeper 🍻",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 48
+    },
+    {
+      "appid": 437630,
+      "icon_hash": "570de9cd2601f8af19a3f8874ce47c167180e080",
+      "last_played_unix": 0,
+      "name": "State of Mind",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 438100,
+      "icon_hash": "52c5f93bd9f8de008307f5fad95023600267462c",
+      "last_played_unix": 1546679029,
+      "name": "VRChat",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 39
+    },
+    {
+      "appid": 438640,
+      "icon_hash": "371c51cb0cd1cdce9a5c5e0aad93fbc11727ab8c",
+      "last_played_unix": 1705716590,
+      "name": "LEGO® STAR WARS™: The Force Awakens",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 18
+    },
+    {
+      "appid": 440900,
+      "icon_hash": "399859f8bdaeef066f14029d5f1910960545fbd9",
+      "last_played_unix": 0,
+      "name": "Conan Exiles Enhanced",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 445980,
+      "icon_hash": "1177948ac90affc4ede111e2bb9f3f7b78122189",
+      "last_played_unix": 1791769418,
+      "name": "Wizard of Legend",
+      "playtime_2weeks_minutes": 10,
+      "playtime_forever_minutes": 10
+    },
+    {
+      "appid": 447040,
+      "icon_hash": "49dc5c3e4053e40159ffa73d2121daadbc467fe2",
+      "last_played_unix": 1672807486,
+      "name": "Watch_Dogs 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1144
+    },
+    {
+      "appid": 448510,
+      "icon_hash": "0f8cb2d03134bfbc0536dcc9a476d9ba3a1e67f5",
+      "last_played_unix": 1630973239,
+      "name": "Overcooked",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1963
+    },
+    {
+      "appid": 450390,
+      "icon_hash": "69ca11312e3a1779946de8871d6bdb003636ffbf",
+      "last_played_unix": 1559010805,
+      "name": "The Lab",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 207
+    },
+    {
+      "appid": 450540,
+      "icon_hash": "38bff8ba5cf105f0e813f9dacc0e524482827ccd",
+      "last_played_unix": 1560575322,
+      "name": "Hot Dogs, Horseshoes & Hand Grenades",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 43
+    },
+    {
+      "appid": 452490,
+      "icon_hash": "804f0d59ed3181d733a2ada6bc2e9c5a4459a9a3",
+      "last_played_unix": 1546030472,
+      "name": "The Cubicle.",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 9
+    },
+    {
+      "appid": 452570,
+      "icon_hash": "052b850b4651dc71ce6e993e5cfa5f922e764633",
+      "last_played_unix": 0,
+      "name": "Battle Chef Brigade",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 457960,
+      "icon_hash": "9cff8bb1dbb3601d732d82f22d257bb51b19675e",
+      "last_played_unix": 1640656416,
+      "name": "Holopoint",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 135
+    },
+    {
+      "appid": 458580,
+      "icon_hash": "59b2f4fcd22875546f5a4c3fcf836134a1504514",
+      "last_played_unix": 1640749250,
+      "name": "Windlands 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 400
+    },
+    {
+      "appid": 460920,
+      "icon_hash": "0cd871768bc488856bd5bf44a196b221fc9a878b",
+      "last_played_unix": 1609129822,
+      "name": "Steep",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 131
+    },
+    {
+      "appid": 464920,
+      "icon_hash": "6c0bbf943ed725a16304161b89061ac1d37f6a2a",
+      "last_played_unix": 1566187293,
+      "name": "Surviving Mars",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 611
+    },
+    {
+      "appid": 466240,
+      "icon_hash": "9ab4436d104e73d560f6e0c439bcb150a9c5a174",
+      "last_played_unix": 1518499150,
+      "name": "Deceit",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 20
+    },
+    {
+      "appid": 466560,
+      "icon_hash": "f290db6bc98c8b40d01a13b9c99baaf705c6ac17",
+      "last_played_unix": 1726022352,
+      "name": "Northgard: Definitive Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2526
+    },
+    {
+      "appid": 471010,
+      "icon_hash": "72e8907fb8bd3cfcdbd1c8c062360b84b8759c09",
+      "last_played_unix": 1552253547,
+      "name": "Seven: Enhanced Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 13
+    },
+    {
+      "appid": 473690,
+      "icon_hash": "2b104291f0b2574f9c8c36c668be5c2d5351352e",
+      "last_played_unix": 1582154218,
+      "name": "Absolver",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 21
+    },
+    {
+      "appid": 475150,
+      "icon_hash": "be3384e7936f548303c77ee2abc4c9026285f554",
+      "last_played_unix": 0,
+      "name": "Titan Quest Anniversary Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 476600,
+      "icon_hash": "9cc56555b04419785037d36362b71e2854daa69c",
+      "last_played_unix": 1571860817,
+      "name": "Call of Duty: WWII",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 38
+    },
+    {
+      "appid": 476620,
+      "icon_hash": "61353c6b23a7c04b11c875044a243210563e74ba",
+      "last_played_unix": 0,
+      "name": "Call of Duty: WWII - Multiplayer",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 477160,
+      "icon_hash": "15c6f6a4d69633a63ee410b24a2417f16d803b06",
+      "last_played_unix": 1636779252,
+      "name": "Human Fall Flat",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 739
+    },
+    {
+      "appid": 480490,
+      "icon_hash": "5ef565e374f039469e4a5c332cd51584af7ec5db",
+      "last_played_unix": 0,
+      "name": "Prey",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 482390,
+      "icon_hash": "47e838b6516ea51ffc3182fa4b6344820e329718",
+      "last_played_unix": 1545935052,
+      "name": "The Night Cafe",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 9
+    },
+    {
+      "appid": 485030,
+      "icon_hash": "e08911ca7d2ffc146bfe413cc0e647192d6d9cd8",
+      "last_played_unix": 1571787364,
+      "name": "PLANET ALPHA",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1
+    },
+    {
+      "appid": 489830,
+      "icon_hash": "0dfe3eed5658f9fbd8b62f8021038c0a4190f21d",
+      "last_played_unix": 1714887538,
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2317
+    },
+    {
+      "appid": 490110,
+      "icon_hash": "3ab06b568a20df6c1580205ca1ad4cd945250a6f",
+      "last_played_unix": 1766981403,
+      "name": "The Precinct",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1001
+    },
+    {
+      "appid": 493340,
+      "icon_hash": "1b2f29e743dd3048f21fefd9642d86a5f5123968",
+      "last_played_unix": 1632640606,
+      "name": "Planet Coaster",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 951
+    },
+    {
+      "appid": 493520,
+      "icon_hash": "c211299ef6127057dfe0271626bb044e79c28f78",
+      "last_played_unix": 1576734777,
+      "name": "GTFO",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 73
+    },
+    {
+      "appid": 493540,
+      "icon_hash": "2715c4d5cba6b7f5a3a4b403a9723d86d8c68ea4",
+      "last_played_unix": 0,
+      "name": "Figment",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 493900,
+      "icon_hash": "bae87fcbf25bab5bcd214f8b96ac14b781e3b4e9",
+      "last_played_unix": 1541476095,
+      "name": "Dungeons 3",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 12
+    },
+    {
+      "appid": 494150,
+      "icon_hash": "44cbcee14efb7c06caa1f0144660294206023be9",
+      "last_played_unix": 1640658850,
+      "name": "The Thrill of the Fight",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 475
+    },
+    {
+      "appid": 495420,
+      "icon_hash": "d6d418d682accfb51ee089ea506587c9c924989b",
+      "last_played_unix": 1738731765,
+      "name": "State of Decay 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2997
+    },
+    {
+      "appid": 495560,
+      "icon_hash": "3e98534e980d234347310b8eeb5195e13615481f",
+      "last_played_unix": 0,
+      "name": "Farm Manager 2018",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 502500,
+      "icon_hash": "f7e1587f3521cacbdebd07b25c05103a963160a8",
+      "last_played_unix": 0,
+      "name": "ACE COMBAT™7: SKIES UNKNOWN",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 508740,
+      "icon_hash": "2a63541a77857c3873088672eb18c3065d3f5f18",
+      "last_played_unix": 0,
+      "name": "Wheels of Aurelia",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 510840,
+      "icon_hash": "3afc0d947233c574763d5db8e3db78225f7850d5",
+      "last_played_unix": 0,
+      "name": "Evolvation",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 516750,
+      "icon_hash": "773ed1ac3843892dad568ceb1ec26f49f05f9e42",
+      "last_played_unix": 1662256038,
+      "name": "My Summer Car",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 123
+    },
+    {
+      "appid": 518150,
+      "icon_hash": "df1535a0f79188f103ec3337a0c1e7a5a4307770",
+      "last_played_unix": 0,
+      "name": "Intruder",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 518580,
+      "icon_hash": "be9fabff331bef430236c3aaa39720c68cc0aa0f",
+      "last_played_unix": 1546032628,
+      "name": "Accounting",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 16
+    },
+    {
+      "appid": 520720,
+      "icon_hash": "886a70c7c78c240da7daa1de01490b44c9855f89",
+      "last_played_unix": 0,
+      "name": "Dear Esther: Landmark Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 522210,
+      "icon_hash": "7acb2dab5cb88a0fd80e03f864e2148218356619",
+      "last_played_unix": 1579463597,
+      "name": "Serial Cleaner",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 32
+    },
+    {
+      "appid": 526870,
+      "icon_hash": "ee3406fe5ec813b1987ad67e37e5cd6fb4f620e6",
+      "last_played_unix": 1737784260,
+      "name": "Satisfactory",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 49
+    },
+    {
+      "appid": 527230,
+      "icon_hash": "790411a4c44e243fa19fe8b3b6a8ca15679c7fbf",
+      "last_played_unix": 1662162133,
+      "name": "For The King",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 48
+    },
+    {
+      "appid": 529150,
+      "icon_hash": "577969fcf62219a927d3366239cd4f70d4c84d1d",
+      "last_played_unix": 1640655982,
+      "name": "Lazerbait",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 64
+    },
+    {
+      "appid": 534380,
+      "icon_hash": "4036cc941abaeeed5ee8bd433ca69388723f7f19",
+      "last_played_unix": 1661482156,
+      "name": "Dying Light 2: Reloaded Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 63
+    },
+    {
+      "appid": 535930,
+      "icon_hash": "7d4e0bb3a682616929406ea2b55cffc17505835c",
+      "last_played_unix": 1585578417,
+      "name": "Two Point Hospital",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 354
+    },
+    {
+      "appid": 537140,
+      "icon_hash": "2e1cfea38a23f6d2126a1fd1088b16795b1e425d",
+      "last_played_unix": 1567907722,
+      "name": "Nemesis Perspective",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 35
+    },
+    {
+      "appid": 544550,
+      "icon_hash": "2111b7ad54c3d3ed9b4b1afed7d99336270c13e3",
+      "last_played_unix": 1729051564,
+      "name": "Stationeers",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 7
+    },
+    {
+      "appid": 546430,
+      "icon_hash": "9ffd5f407ef365da34edc5a05eb64506955c6df5",
+      "last_played_unix": 0,
+      "name": "Pathway",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 548430,
+      "icon_hash": "e033e23c29a192a17c16a7645a2b423ac64ff447",
+      "last_played_unix": 0,
+      "name": "Deep Rock Galactic",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 552500,
+      "icon_hash": "a671f2ddf7359beba9702ac097baf6d50cb07202",
+      "last_played_unix": 1607823567,
+      "name": "Warhammer: Vermintide 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 162
+    },
+    {
+      "appid": 552520,
+      "icon_hash": "928df2d32021f480499a97458068f62c45298e7a",
+      "last_played_unix": 1791943315,
+      "name": "Far Cry 5",
+      "playtime_2weeks_minutes": 446,
+      "playtime_forever_minutes": 1032
+    },
+    {
+      "appid": 552990,
+      "icon_hash": "023b6bb5bcf82f9222d70cd38fdb18a899bd67e8",
+      "last_played_unix": 1516658160,
+      "name": "World of Warships",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 188
+    },
+    {
+      "appid": 553850,
+      "icon_hash": "5236dcc5d02b1f7aa199eef56253d20be87baef3",
+      "last_played_unix": 1747278317,
+      "name": "HELLDIVERS™ 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 4389
+    },
+    {
+      "appid": 555150,
+      "icon_hash": "76a972598c30da9778e1ac780650f6a9e5f40ccd",
+      "last_played_unix": 0,
+      "name": "The First Tree",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 555160,
+      "icon_hash": "d537afd8696affb4b2294aed07be5e13bcfc5d87",
+      "last_played_unix": 1641093252,
+      "name": "Pavlov VR",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2404
+    },
+    {
+      "appid": 559650,
+      "icon_hash": "8482ea1b7e6fb1c69d306e653a85f98c6a9e4407",
+      "last_played_unix": 0,
+      "name": "Witch It",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 566530,
+      "icon_hash": "147d8a69e44a798d5622eaa06226b7ec475ab11a",
+      "last_played_unix": 1579397468,
+      "name": "Mass Exodus Redux",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 99
+    },
+    {
+      "appid": 571740,
+      "icon_hash": "70b58cf94333587a69cf93c7e4a4241500928251",
+      "last_played_unix": 1662348304,
+      "name": "Golf It!",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 263
+    },
+    {
+      "appid": 573090,
+      "icon_hash": "debf65da510a0a555c36da4f69c73f603e28b37b",
+      "last_played_unix": 0,
+      "name": "Stormworks: Build and Rescue",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 578080,
+      "icon_hash": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+      "last_played_unix": 1554965070,
+      "name": "PUBG: BATTLEGROUNDS",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1067
+    },
+    {
+      "appid": 578620,
+      "icon_hash": "a9e8c74c0af738494192219e5d2ad1ab8b7b6f73",
+      "last_played_unix": 1546054182,
+      "name": "GORN",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 68
+    },
+    {
+      "appid": 578650,
+      "icon_hash": "6de56b3e6ff07177a97cf2373145afc6d3a9a926",
+      "last_played_unix": 1684096455,
+      "name": "The Outer Worlds",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 4051
+    },
+    {
+      "appid": 581270,
+      "icon_hash": "91390e0de27b0f24cab0d2c221608afe1bf41838",
+      "last_played_unix": 0,
+      "name": "Old Man's Journey",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 581320,
+      "icon_hash": "d279a836f1d2df271dadbefda9fee7fc65c5fe87",
+      "last_played_unix": 1685336349,
+      "name": "Insurgency: Sandstorm",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 895
+    },
+    {
+      "appid": 582660,
+      "icon_hash": "bf5ccace0a692720984827bf042143d0d4b28a42",
+      "last_played_unix": 1584937045,
+      "name": "Black Desert",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2
+    },
+    {
+      "appid": 585420,
+      "icon_hash": "343fef058327a2fe514cac2e270fbdc581b05786",
+      "last_played_unix": 1729985124,
+      "name": "Trailmakers",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 293
+    },
+    {
+      "appid": 589290,
+      "icon_hash": "4a1d30894946a782014e8542884e64c25c2b062a",
+      "last_played_unix": 1722139145,
+      "name": "Holdfast: Nations At War",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 419
+    },
+    {
+      "appid": 591680,
+      "icon_hash": "3aa1409aaf838e045e2912712aa98f96cf20da31",
+      "last_played_unix": 1560577763,
+      "name": "Taphouse VR",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 47
+    },
+    {
+      "appid": 595140,
+      "icon_hash": "a7d2e5ba107f5cf1ba2f8d55f0884d4956adf384",
+      "last_played_unix": 0,
+      "name": "Immortal Redneck",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 598780,
+      "icon_hash": "2e8c6237c614e3d54e44bedcc1757d933244f0cc",
+      "last_played_unix": 1638767915,
+      "name": "Boreal Blade",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 8
+    },
+    {
+      "appid": 600130,
+      "icon_hash": "9c06ea949a25f75a687c6d017a98ed9eeb749ad7",
+      "last_played_unix": 0,
+      "name": "Valfaris",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 600140,
+      "icon_hash": "6c6048d36f7929a43fe5f4d76e47f9d552765925",
+      "last_played_unix": 1546110654,
+      "name": "Belko VR: An Escape Room Experiment",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 37
+    },
+    {
+      "appid": 601320,
+      "icon_hash": "4fe5966d42d7d73d68e381b868a6892168cabf15",
+      "last_played_unix": 1578713120,
+      "name": "Schlocks",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 238
+    },
+    {
+      "appid": 602960,
+      "icon_hash": "a0adb0f29ce819c6dffa32446624fb7648defc5a",
+      "last_played_unix": 0,
+      "name": "Barotrauma",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 608800,
+      "icon_hash": "d7f95f73cbed6458a74bcd4a7c0872fe332367ec",
+      "last_played_unix": 1541721135,
+      "name": "Guns of Icarus Alliance",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2
+    },
+    {
+      "appid": 610180,
+      "icon_hash": "90a9ae59123b4c52b970f11b14eb655063b8dbf5",
+      "last_played_unix": 1635059334,
+      "name": "The Jackbox Party Pack 4",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 138
+    },
+    {
+      "appid": 611500,
+      "icon_hash": "539032fb1e8b41d0a48ff11bf63bfe7918ace24c",
+      "last_played_unix": 1529991595,
+      "name": "Quake Champions",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 69
+    },
+    {
+      "appid": 611670,
+      "icon_hash": "ad6e392028771adffec34b09746b81b16172791f",
+      "last_played_unix": 1568148114,
+      "name": "The Elder Scrolls V: Skyrim VR",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 104
+    },
+    {
+      "appid": 612880,
+      "icon_hash": "fd5c894c47b49a7d5e46e7ed60d6f1fdf60d210d",
+      "last_played_unix": 1708401576,
+      "name": "Wolfenstein II: The New Colossus",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 38
+    },
+    {
+      "appid": 613100,
+      "icon_hash": "4ab6e7c49f3f0c063dfe08ab85038c979301f6dd",
+      "last_played_unix": 0,
+      "name": "House Flipper",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 614570,
+      "icon_hash": "7e3bbe2deae930b57651565810b7f7b41349af53",
+      "last_played_unix": 0,
+      "name": "Dishonored®: Death of the Outsider™ ",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 617830,
+      "icon_hash": "5bb403a4548a6e95e0d8115d2df8bee782ef6b71",
+      "last_played_unix": 1580285249,
+      "name": "SUPERHOT VR",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1066
+    },
+    {
+      "appid": 620980,
+      "icon_hash": "d2922f271fca9579ecdcc07408cee13d87ca4148",
+      "last_played_unix": 1641167837,
+      "name": "Beat Saber",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 3910
+    },
+    {
+      "appid": 621060,
+      "icon_hash": "156646a1e614512ad36c6ff1c698a2f05783c61b",
+      "last_played_unix": 0,
+      "name": "PC Building Simulator",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 623990,
+      "icon_hash": "20deaf466474f76f2ffdb345fe56f40fe3af74c0",
+      "last_played_unix": 1527391735,
+      "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1
+    },
+    {
+      "appid": 625470,
+      "icon_hash": "9343c27262ff3d6045bccb3a788cf9a3b2f6a3a7",
+      "last_played_unix": 1568318305,
+      "name": "The Red Stare",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 48
+    },
+    {
+      "appid": 628200,
+      "icon_hash": "068f9097711283a01ec9de787202c516d152cd56",
+      "last_played_unix": 1785209222,
+      "name": "The Invisible Hand",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 488
+    },
+    {
+      "appid": 629730,
+      "icon_hash": "3a01fc72a16d06a538330e11cae7ed87bf0d40e5",
+      "last_played_unix": 1578194661,
+      "name": "Blade & Sorcery",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 439
+    },
+    {
+      "appid": 632360,
+      "icon_hash": "0b809ac6f25e6570fecae5fc47bca0139a7bf70c",
+      "last_played_unix": 1781230608,
+      "name": "Risk of Rain 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 10143
+    },
+    {
+      "appid": 632470,
+      "icon_hash": "b681544caa931c7c1a6788e6e3e33cb42892d17c",
+      "last_played_unix": 1615675103,
+      "name": "Disco Elysium",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 535
+    },
+    {
+      "appid": 638070,
+      "icon_hash": "5e7b5bfa87997037ace85ae60883309a8cb0ffbf",
+      "last_played_unix": 0,
+      "name": "Murderous Pursuits",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 638970,
+      "icon_hash": "3c19e2140eb09113fddd33b796a3f12185163cb7",
+      "last_played_unix": 1592856885,
+      "name": "Yakuza 0",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 113
+    },
+    {
+      "appid": 641990,
+      "icon_hash": "c1d2bb67884d14088b7befc3d442df6eb801cd13",
+      "last_played_unix": 1550618583,
+      "name": "The Escapists 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 344
+    },
+    {
+      "appid": 644930,
+      "icon_hash": "3121b4e36ea898e2cd2d43aad7ea0f7db200dd15",
+      "last_played_unix": 1714965818,
+      "name": "They Are Billions",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 4900
+    },
+    {
+      "appid": 648800,
+      "icon_hash": "6a9ae357c4133b1b631b520edd25b1974f3afb68",
+      "last_played_unix": 1673732538,
+      "name": "Raft",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2130
+    },
+    {
+      "appid": 650220,
+      "icon_hash": "e635c3d9b3de97e6e3e3f9a7475c85db2f3818e6",
+      "last_played_unix": 1581390332,
+      "name": "Interplanetary: Enhanced Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1
+    },
+    {
+      "appid": 653530,
+      "icon_hash": "24c6239385563bff1fccad712f27a0c1fe18349b",
+      "last_played_unix": 1749272798,
+      "name": "Return of the Obra Dinn",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 773
+    },
+    {
+      "appid": 654310,
+      "icon_hash": "64dd8eca34f0b5faeda135f057da1973806852f2",
+      "last_played_unix": 0,
+      "name": "For Honor - Public Test",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 671860,
+      "icon_hash": "84d4db032ad4d637b97e9a25f7d3da70b6fd6257",
+      "last_played_unix": 1755667979,
+      "name": "BattleBit Remastered",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1920
+    },
+    {
+      "appid": 673070,
+      "icon_hash": "3fd000cb4bc3eb14e6296523e4f534b276a80b37",
+      "last_played_unix": 1546204179,
+      "name": "The Ranger: Lost Tribe",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 7
+    },
+    {
+      "appid": 674940,
+      "icon_hash": "28bc7ba8952d488e01e7136126cbbc3b42ee443a",
+      "last_played_unix": 1761007687,
+      "name": "Stick Fight: The Game",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 180
+    },
+    {
+      "appid": 676470,
+      "icon_hash": "96e1cebe8e712048465b8385591e658be3a791fe",
+      "last_played_unix": 1546108136,
+      "name": "Sommad",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 7
+    },
+    {
+      "appid": 677160,
+      "icon_hash": "8ab91765d80cb7faf7c257dff6bab4fd95c968c7",
+      "last_played_unix": 0,
+      "name": "We Were Here Too",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 680360,
+      "icon_hash": "d8f045e06bc779e2f46718cf05dea4132365a04a",
+      "last_played_unix": 0,
+      "name": "Regions Of Ruin",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 680380,
+      "icon_hash": "9f11f8936f8cb7e87a6c77d2b718d57bc955b1ad",
+      "last_played_unix": 0,
+      "name": "Night Call",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 686260,
+      "icon_hash": "0623ce99a9b7c20eb325e1a2c1fadbc551cb856f",
+      "last_played_unix": 0,
+      "name": "Forged Battalion",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 686810,
+      "icon_hash": "34a4b24b1132045d8e59e56b9c24bed725af55c7",
+      "last_played_unix": 1748238286,
+      "name": "Hell Let Loose",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 380
+    },
+    {
+      "appid": 689580,
+      "icon_hash": "3f50f29f3c2e56a6008cd1ce51da682badedf4e9",
+      "last_played_unix": 1562556086,
+      "name": "TurnSignal",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1373
+    },
+    {
+      "appid": 690790,
+      "icon_hash": "bd4cc20090b66b8e5a992a1ab67e3de0bef177da",
+      "last_played_unix": 1732829171,
+      "name": "DiRT Rally 2.0",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1686
+    },
+    {
+      "appid": 690830,
+      "icon_hash": "58dbe880c782c1fa4ca6c164f254031204a41638",
+      "last_played_unix": 1785209309,
+      "name": "Foundation",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1
+    },
+    {
+      "appid": 700330,
+      "icon_hash": "c61fb24a5e0d348a922ec6b5ea1095c9bcf7ecd0",
+      "last_played_unix": 1540347432,
+      "name": "SCP: Secret Laboratory",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 342
+    },
+    {
+      "appid": 700580,
+      "icon_hash": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c",
+      "last_played_unix": 0,
+      "name": "Rust - Staging Branch",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 703080,
+      "icon_hash": "68c7a610498955f547b0ece0aff081d23f2025b5",
+      "last_played_unix": 1625529635,
+      "name": "Planet Zoo",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 22
+    },
+    {
+      "appid": 707680,
+      "icon_hash": "dd08015a0b15a00dc54d7e430e11859ad03f2865",
+      "last_played_unix": 1613861207,
+      "name": "Slapshot",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 18
+    },
+    {
+      "appid": 716750,
+      "icon_hash": "4566bbc8426a1ba4fb68483fb5ab90bdd625f508",
+      "last_played_unix": 1567909892,
+      "name": "Nemesis Realms",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 27
+    },
+    {
+      "appid": 718670,
+      "icon_hash": "45d3323697f801b62bab92ef0bbd2e672d68f504",
+      "last_played_unix": 0,
+      "name": "Cultist Simulator",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 721090,
+      "icon_hash": "889a7ac29ac4b6a1c24cd48cb9d57bcb3ca8050f",
+      "last_played_unix": 1555572353,
+      "name": "SKYBOX VR Video Player",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 197
+    },
+    {
+      "appid": 723610,
+      "icon_hash": "61ae1e1597b094b3216e5eebbb06f9e9152db7e8",
+      "last_played_unix": 1568321489,
+      "name": "Dream Golf VR",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 13
+    },
+    {
+      "appid": 728880,
+      "icon_hash": "bac36f471109038ae0b40619de4109d475f86a54",
+      "last_played_unix": 1680752187,
+      "name": "Overcooked! 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2615
+    },
+    {
+      "appid": 729040,
+      "icon_hash": "aba56aae141ef1495cef3534163beb1664b417c0",
+      "last_played_unix": 0,
+      "name": "Borderlands GOTY Enhanced",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 737230,
+      "icon_hash": "880aa8749f9fee2ea0f987749b44c769b65ee7a5",
+      "last_played_unix": 0,
+      "name": "Rising Storm 2: Vietnam CTB Beta",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 738520,
+      "icon_hash": "be75f36a24abb31bfbbf1220e801c61ed477c03a",
+      "last_played_unix": 1662165349,
+      "name": "Breathedge",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 53
+    },
+    {
+      "appid": 739960,
+      "icon_hash": "2e0470941ea456979397607504a473315dbb59de",
+      "last_played_unix": 1546215901,
+      "name": "Kokoda VR",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 17
+    },
+    {
+      "appid": 741820,
+      "icon_hash": "c287ea60b90c8d4616f7cd0b92e0128289727c00",
+      "last_played_unix": 0,
+      "name": "Prey: Typhon Hunter",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 746850,
+      "icon_hash": "8ea77cc8558c0c413dd829026b1031cbbbaf66d0",
+      "last_played_unix": 1623386599,
+      "name": "Cloudpunk",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 542
+    },
+    {
+      "appid": 747350,
+      "icon_hash": "8a5d8f2d1cb52b21eaf4f6609592c6634731c962",
+      "last_played_unix": 0,
+      "name": "Hellblade: Senua's Sacrifice VR Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 753640,
+      "icon_hash": "8d0c2dcfc599445affcbad76a34d89478c022780",
+      "last_played_unix": 1633147113,
+      "name": "Outer Wilds",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1407
+    },
+    {
+      "appid": 753650,
+      "icon_hash": "376799bf885dd2b724fa3f793b5bbc9363c4eac9",
+      "last_played_unix": 1632034611,
+      "name": "Due Process",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 76
+    },
+    {
+      "appid": 755470,
+      "icon_hash": "d8a22cb725c5e4a1c3721426585bbc8af5f5e231",
+      "last_played_unix": 0,
+      "name": "The World Next Door",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 755790,
+      "icon_hash": "bff111ed4307fc769143eb3d652fb940c363e37e",
+      "last_played_unix": 1548214277,
+      "name": "Ring of Elysium",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 568
+    },
+    {
+      "appid": 757310,
+      "icon_hash": "99b24f25b351f471e84ac9f3a25498505b679695",
+      "last_played_unix": 1690394529,
+      "name": "Sable",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 86
+    },
+    {
+      "appid": 763890,
+      "icon_hash": "d1d7287619c05af415234776315019124fbb032e",
+      "last_played_unix": 0,
+      "name": "Wildermyth",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 774201,
+      "icon_hash": "ed31d6bf802976bc4b993102f5a7985f4c4667e2",
+      "last_played_unix": 1770251663,
+      "name": "Heaven's Vault",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2
+    },
+    {
+      "appid": 774461,
+      "icon_hash": "aeb323dc48943fe83a588db94b2e9d48d4f2bdcd",
+      "last_played_unix": 1635059334,
+      "name": "The Jackbox Party Pack 5",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 684
+    },
+    {
+      "appid": 774861,
+      "icon_hash": "c6991b5658dcefeb09f867784b8b4780f4ad2d7c",
+      "last_played_unix": 0,
+      "name": "Project Winter",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 774941,
+      "icon_hash": "6a9ee44c92c5ca7ddacf0d56bb7d5720961da0f8",
+      "last_played_unix": 0,
+      "name": "Squad - Public Testing",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 783050,
+      "icon_hash": "78825bd9d6d096ec58174d9e20385c493df6d344",
+      "last_played_unix": 0,
+      "name": "Bear With Me - Collector's Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 790060,
+      "icon_hash": "caa0c9c32beecb4948f6c26d4b1ccdc9894e1bed",
+      "last_played_unix": 0,
+      "name": "The Void Rains Upon Her Heart",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 794260,
+      "icon_hash": "3e4793d89752de17667f55afbaad9c3a6180ece7",
+      "last_played_unix": 0,
+      "name": "Outward",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 799300,
+      "icon_hash": "f06c40af949ef5c3df865195e7736fd2bded94ef",
+      "last_played_unix": 1555523219,
+      "name": "Go Guess",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 79
+    },
+    {
+      "appid": 803330,
+      "icon_hash": "f6679705155ed59580d9d6c9a8b13b577c9db776",
+      "last_played_unix": 1706591174,
+      "name": "Destroy All Humans!",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 19
+    },
+    {
+      "appid": 823130,
+      "icon_hash": "920902c516d435c3d9a6c5ef92e3cd4372f9314b",
+      "last_played_unix": 1528356713,
+      "name": "Totally Accurate Battlegrounds",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 61
+    },
+    {
+      "appid": 823500,
+      "icon_hash": "9b62f85582df2290373d034b585d683c0e66993e",
+      "last_played_unix": 1579396067,
+      "name": "BONEWORKS",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1193
+    },
+    {
+      "appid": 824270,
+      "icon_hash": "ed2df8e3157c3fe9b62d0b72bdcd20d4e674be32",
+      "last_played_unix": 1659809660,
+      "name": "KovaaK's",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1431
+    },
+    {
+      "appid": 828740,
+      "icon_hash": "73c6a8177738b8635b0d22fea2f58190c16ba438",
+      "last_played_unix": 0,
+      "name": "Tales of the Neon Sea",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 845070,
+      "icon_hash": "b0a58984e1e24531843f2bfe0b3d70135b0a8e57",
+      "last_played_unix": 1538366495,
+      "name": "The Awesome Adventures of Captain Spirit",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 29
+    },
+    {
+      "appid": 847370,
+      "icon_hash": "9870dc3dc81444a78503eecb9ca54a9628a836f5",
+      "last_played_unix": 0,
+      "name": "Sunset Overdrive",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 848450,
+      "icon_hash": "eae16718327a78d87ac7ae61db96729926c97a16",
+      "last_played_unix": 1755572315,
+      "name": "Subnautica: Below Zero",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1712
+    },
+    {
+      "appid": 850190,
+      "icon_hash": "d439f89f9ca1316b6fb187db3d97e168c9fa6460",
+      "last_played_unix": 1754946724,
+      "name": "Goat Simulator 3",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 13
+    },
+    {
+      "appid": 850320,
+      "icon_hash": "13611dbda7d0f1b7ae9582b473c8001e221573ac",
+      "last_played_unix": 1624811746,
+      "name": "PHOGS!",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 146
+    },
+    {
+      "appid": 863550,
+      "icon_hash": "3f7c071da7a338e03f6243b73c02c072f1bacee9",
+      "last_played_unix": 1583379673,
+      "name": "HITMAN™ 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1074
+    },
+    {
+      "appid": 870780,
+      "icon_hash": "3438e3a03c82194349d66f99ee642ba59cbcc3dc",
+      "last_played_unix": 0,
+      "name": "Control Ultimate Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 877810,
+      "icon_hash": "b94b2bcaa66e3eeb5b9669845696d0db46160b4b",
+      "last_played_unix": 0,
+      "name": "Anodyne 2: Return to Dust",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 880940,
+      "icon_hash": "0e2e222010d009ca46b575cc5c53a23250434341",
+      "last_played_unix": 1587618518,
+      "name": "Pummel Party",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 714
+    },
+    {
+      "appid": 881100,
+      "icon_hash": "a21dbd1d3bd01f0a688f2d7029978d5cdbe14e74",
+      "last_played_unix": 1731034822,
+      "name": "Noita",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 11
+    },
+    {
+      "appid": 892970,
+      "icon_hash": "2f64c9a826e2c6cf3253fea4834c2e612db09143",
+      "last_played_unix": 1789091947,
+      "name": "Valheim",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 16833
+    },
+    {
+      "appid": 897450,
+      "icon_hash": "210ddf7659b9dc50051c397cbd51eb35fa584373",
+      "last_played_unix": 0,
+      "name": "The Survivalists",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 931180,
+      "icon_hash": "67a32c9bdd0738df619162c70bdebfe8a735abec",
+      "last_played_unix": 0,
+      "name": "Conan Exiles - Public Beta Client",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 934700,
+      "icon_hash": "07025c2a5e629a7a8200d7b2f736f2529c6d1b17",
+      "last_played_unix": 1771204827,
+      "name": "Dead Island 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 264
+    },
+    {
+      "appid": 939960,
+      "icon_hash": "4123e8e644fd7c9d576e405f76f4296869293deb",
+      "last_played_unix": 0,
+      "name": "Far Cry New Dawn",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 945360,
+      "icon_hash": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801",
+      "last_played_unix": 1722138629,
+      "name": "Among Us",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 566
+    },
+    {
+      "appid": 960090,
+      "icon_hash": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
+      "last_played_unix": 1657255106,
+      "name": "Bloons TD 6",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 155
+    },
+    {
+      "appid": 962130,
+      "icon_hash": "0e598fd0dc10e3d85e5f244c62d0c41e4c8d96cc",
+      "last_played_unix": 1732245881,
+      "name": "Grounded",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 131
+    },
+    {
+      "appid": 962730,
+      "icon_hash": "cfa29291556bc6ec4f9accc641d5e0ce2e1b1fa1",
+      "last_played_unix": 1731034031,
+      "name": "Skater XL",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 36
+    },
+    {
+      "appid": 963000,
+      "icon_hash": "4e541e06cc4c3cdb6dd1918fe6cfa37ea30b48f6",
+      "last_played_unix": 0,
+      "name": "Frog Detective 1: The Haunted Island",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 966320,
+      "icon_hash": "03a0c9f6d09a6cb76c867a01597e306eba053520",
+      "last_played_unix": 1625355688,
+      "name": "Later Alligator",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 16
+    },
+    {
+      "appid": 972660,
+      "icon_hash": "21c6c86b51df38e9480231792acf0cfc30f51820",
+      "last_played_unix": 0,
+      "name": "Spiritfarer®: Farewell Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 975370,
+      "icon_hash": "f2590e71d4b5c48c200ecc4d8b6e0eddb60eff20",
+      "last_played_unix": 0,
+      "name": "Dwarf Fortress",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 979070,
+      "icon_hash": "e0a5be90dee21ae651c69279f9e5da8449f6d1c8",
+      "last_played_unix": 1638767374,
+      "name": "Just Die Already",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 7
+    },
+    {
+      "appid": 979690,
+      "icon_hash": "ced822d46392fcb97daaeb303523b7ff5defecd7",
+      "last_played_unix": 0,
+      "name": "The Ascent",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 986130,
+      "icon_hash": "64dc4dc0a5502c03145b69ffe8ebcea7842031a8",
+      "last_played_unix": 1754005248,
+      "name": "Shadows of Doubt",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 74
+    },
+    {
+      "appid": 990080,
+      "icon_hash": "a9ecb94f249768d0ee5ccecbffe8d8c06d9bed59",
+      "last_played_unix": 1680577866,
+      "name": "Hogwarts Legacy",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 6456
+    },
+    {
+      "appid": 993090,
+      "icon_hash": "42900f430ed7828d2dfa25f07ac02e3de96bc520",
+      "last_played_unix": 1742059165,
+      "name": "Lossless Scaling",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 366
+    },
+    {
+      "appid": 996770,
+      "icon_hash": "aa7ac3ddf3ca381661297ff603a1acf4eeb38f6c",
+      "last_played_unix": 1745460214,
+      "name": "Moving Out",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 481
+    },
+    {
+      "appid": 1004490,
+      "icon_hash": "3fcb93b1c69ef8e8e08a1186ffebf7453bd72e97",
+      "last_played_unix": 1791768336,
+      "name": "Tools Up!",
+      "playtime_2weeks_minutes": 1,
+      "playtime_forever_minutes": 13
+    },
+    {
+      "appid": 1012560,
+      "icon_hash": "e7c40c4b0e15641c32170d7425e29c7e8b5088fc",
+      "last_played_unix": 1630556356,
+      "name": "Snakeybus",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 132
+    },
+    {
+      "appid": 1014040,
+      "icon_hash": "6480bf73c86bd147b2b3a608e4bfe8b87fe42e8a",
+      "last_played_unix": 0,
+      "name": "PictoQuest",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1016920,
+      "icon_hash": "d52e7b3ffc58010b2792160e07ce6834f8c3d80b",
+      "last_played_unix": 1661563857,
+      "name": "Unrailed!",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 273
+    },
+    {
+      "appid": 1029780,
+      "icon_hash": "3eec57d783c54036166564e195039b20f600a52f",
+      "last_played_unix": 1772157667,
+      "name": "Going Medieval",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1020
+    },
+    {
+      "appid": 1030830,
+      "icon_hash": "f80e173ad5c242ca0d41e30af1f6358d1e64d9b4",
+      "last_played_unix": 1627254554,
+      "name": "Mafia II: Definitive Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 140
+    },
+    {
+      "appid": 1030840,
+      "icon_hash": "883ceebf7d8ebce37c9244a62777ef4a800393ce",
+      "last_played_unix": 1631852061,
+      "name": "Mafia: Definitive Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2259
+    },
+    {
+      "appid": 1042490,
+      "icon_hash": "ec91d394beed7123356920cc1ad1bd7700540ff0",
+      "last_played_unix": 1624755446,
+      "name": "Call of the Sea",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 22
+    },
+    {
+      "appid": 1048540,
+      "icon_hash": "6e1b26ff2784ab5695396695708e16a7c9a07be9",
+      "last_played_unix": 0,
+      "name": "Kao the Kangaroo: Round 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1049410,
+      "icon_hash": "94dafc4a3469aff1c47c5f03f0114e2db2e99e9a",
+      "last_played_unix": 1636339595,
+      "name": "Superliminal",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 47
+    },
+    {
+      "appid": 1054430,
+      "icon_hash": "f7aad886c0ff682b58ebf241ec4c1250c476cab5",
+      "last_played_unix": 1641682172,
+      "name": "Fling to the Finish",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 31
+    },
+    {
+      "appid": 1062090,
+      "icon_hash": "a4863a01d88f18c948a712bfe90234ece672ca83",
+      "last_played_unix": 1765764117,
+      "name": "Timberborn",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2505
+    },
+    {
+      "appid": 1062520,
+      "icon_hash": "0201c9b277e291d2fe3d2a5e6d3dda0ee38d9e4e",
+      "last_played_unix": 1732854038,
+      "name": "Dinkum",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 4
+    },
+    {
+      "appid": 1062830,
+      "icon_hash": "f9ba2d14f2b4e50989dd46de4dca141b13b636b1",
+      "last_played_unix": 0,
+      "name": "Embr",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1063420,
+      "icon_hash": "fce405564dd17dcaa6a5d62a4adde3011a0a221e",
+      "last_played_unix": 0,
+      "name": "Void Crew",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1070710,
+      "icon_hash": "172b721318d67d5ec822365d1c63fc8abbf3777d",
+      "last_played_unix": 0,
+      "name": "Kind Words",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1073910,
+      "icon_hash": "61987731d70d666be063934e5c1d432ddb67004a",
+      "last_played_unix": 0,
+      "name": "Before We Leave",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1081040,
+      "icon_hash": "e851a66a3dc9c503478559befbfb150308ad54c0",
+      "last_played_unix": 1577421743,
+      "name": "Twin Peaks VR",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 70
+    },
+    {
+      "appid": 1085660,
+      "icon_hash": "fce050d63f0a2f8eb51b603c7f30bfca2a301549",
+      "last_played_unix": 1602366199,
+      "name": "Destiny 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1036
+    },
+    {
+      "appid": 1086940,
+      "icon_hash": "d866cae7ea1e471fdbc206287111f1b642373bd9",
+      "last_played_unix": 1765748844,
+      "name": "Baldur's Gate 3",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 9461
+    },
+    {
+      "appid": 1088790,
+      "icon_hash": "7a4fe7587db367de75892a396f2f6937345016c9",
+      "last_played_unix": 1772303509,
+      "name": "Rebel Inc: Escalation",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 173
+    },
+    {
+      "appid": 1091500,
+      "icon_hash": "6897c3848f3e0350d512f59d5bae174a1e3739f9",
+      "last_played_unix": 1785371758,
+      "name": "Cyberpunk 2077",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 10142
+    },
+    {
+      "appid": 1095120,
+      "icon_hash": "ef5fc45bf1cb3f6e573af8f9fcd89055c383478f",
+      "last_played_unix": 0,
+      "name": "Helheim Hassle",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1127500,
+      "icon_hash": "288282565a18a500ba96d36f4014f562d8cc1ccf",
+      "last_played_unix": 1690237427,
+      "name": "Mini Motorways",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 51
+    },
+    {
+      "appid": 1129580,
+      "icon_hash": "2bc2abbf62765ad587a399f67d8ca89a8f486e7b",
+      "last_played_unix": 1765499560,
+      "name": "Medieval Dynasty",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 3972
+    },
+    {
+      "appid": 1134710,
+      "icon_hash": "217f350aca704a6e0d95f1fca855e2379002a0c4",
+      "last_played_unix": 1735331363,
+      "name": "NIMBY Rails",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 7
+    },
+    {
+      "appid": 1140290,
+      "icon_hash": "740b7aef24e75e885cff5d34d09d1cdab2aa5bbc",
+      "last_played_unix": 0,
+      "name": "Murder by Numbers",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1142710,
+      "icon_hash": "6db17b5e504c0850a9a60edac9152de019d0d3a8",
+      "last_played_unix": 1734761578,
+      "name": "Total War: WARHAMMER III",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 249
+    },
+    {
+      "appid": 1144200,
+      "icon_hash": "2ff04d6677a45dd95f0add718d646185539a82d8",
+      "last_played_unix": 1774208707,
+      "name": "Ready or Not",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 5673
+    },
+    {
+      "appid": 1145360,
+      "icon_hash": "8a3fca36a00883e8066263ad35dd15d77a1f9abc",
+      "last_played_unix": 1717979208,
+      "name": "Hades",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 260
+    },
+    {
+      "appid": 1149620,
+      "icon_hash": "7b57c38b066dfe58882cc358f379060ae36dfe1f",
+      "last_played_unix": 1786145047,
+      "name": "Gas Station Simulator",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 701
+    },
+    {
+      "appid": 1151640,
+      "icon_hash": "08a1b6df68bdc8c28c974b79325ed8c89417af48",
+      "last_played_unix": 1686110440,
+      "name": "Horizon Zero Dawn™ Complete Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 854
+    },
+    {
+      "appid": 1158160,
+      "icon_hash": "5399c1ca458f4d6c8cd5133de6f12e37ade5f194",
+      "last_played_unix": 0,
+      "name": "Coral Island",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1167630,
+      "icon_hash": "2820515b4c8ed6e78724c6a0e5903e7c2a95dce8",
+      "last_played_unix": 1787621051,
+      "name": "Teardown",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 3705
+    },
+    {
+      "appid": 1172380,
+      "icon_hash": "0ea1d285a8ee6fbeef0e8f7f3b2d7fa4cbcb423b",
+      "last_played_unix": 1597286139,
+      "name": "STAR WARS Jedi: Fallen Order™ ",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 919
+    },
+    {
+      "appid": 1172620,
+      "icon_hash": "f95f362708fc326511c5d86566c447ee625bf776",
+      "last_played_unix": 1670726665,
+      "name": "Sea of Thieves",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 601
+    },
+    {
+      "appid": 1173370,
+      "icon_hash": "674676fb4ba48e60020869d8f5fcef1e3c1a3014",
+      "last_played_unix": 1685058163,
+      "name": "Slapshot: Rebound",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 115
+    },
+    {
+      "appid": 1174180,
+      "icon_hash": "5106abd9c1187a97f23295a0ba9470c94804ec6c",
+      "last_played_unix": 1630642535,
+      "name": "Red Dead Redemption 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 5114
+    },
+    {
+      "appid": 1190970,
+      "icon_hash": "1b2d7e7824627c605cb4ddb29e3be200fccd8438",
+      "last_played_unix": 1762656677,
+      "name": "House Flipper 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 84
+    },
+    {
+      "appid": 1203620,
+      "icon_hash": "b51ff4aa19722a1f3587b35f37f590a998f36a9a",
+      "last_played_unix": 1769298636,
+      "name": "Enshrouded",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 28
+    },
+    {
+      "appid": 1211020,
+      "icon_hash": "bb731d6554f7614b5c2ad1acb511286de1cc7ba4",
+      "last_played_unix": 1791768250,
+      "name": "Wobbly Life",
+      "playtime_2weeks_minutes": 14,
+      "playtime_forever_minutes": 14
+    },
+    {
+      "appid": 1222140,
+      "icon_hash": "3d9f5bc971d44398aef740c0d8e79a358be2e800",
+      "last_played_unix": 0,
+      "name": "Detroit: Become Human",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1222680,
+      "icon_hash": "98a96955403db8eeed026bc5ff04e51e3329f1b0",
+      "last_played_unix": 1682135495,
+      "name": "Need for Speed™ Heat ",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1725
+    },
+    {
+      "appid": 1222690,
+      "icon_hash": "d9bf2a8fbd07aa6309adb908b03d7521c644f1f9",
+      "last_played_unix": 1638682827,
+      "name": "Dragon Age™ Inquisition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 77
+    },
+    {
+      "appid": 1222700,
+      "icon_hash": "ac36b7d06c117d34c204166c3120e15910ef2b8b",
+      "last_played_unix": 1765681885,
+      "name": "A Way Out",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 3
+    },
+    {
+      "appid": 1229490,
+      "icon_hash": "665f952065f0512a2079efd77308e6a5af23dfd6",
+      "last_played_unix": 1685032663,
+      "name": "ULTRAKILL",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 107
+    },
+    {
+      "appid": 1229580,
+      "icon_hash": "33b9676e30f9cec00fef480c5d229f5d41836593",
+      "last_played_unix": 0,
+      "name": "Disc Room",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1232010,
+      "icon_hash": "c3454eae5d50e4a3484d3fe00f2507daa93035ce",
+      "last_played_unix": 0,
+      "name": "Radical Rabbit Stew",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1233570,
+      "icon_hash": "a5583fa5e07defaeb3a3ade0b4936767265dd660",
+      "last_played_unix": 1597291275,
+      "name": "Mirror's Edge™ Catalyst",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 601
+    },
+    {
+      "appid": 1237970,
+      "icon_hash": "d73c7e572859bd7490947d1aeab5c33eda18fd64",
+      "last_played_unix": 1593235663,
+      "name": "Titanfall® 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 347
+    },
+    {
+      "appid": 1238810,
+      "icon_hash": "23ded6a957b5ec7525679c2e7bdac90c0653dbc8",
+      "last_played_unix": 1736828654,
+      "name": "Battlefield™ V",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 26
+    },
+    {
+      "appid": 1238840,
+      "icon_hash": "325c78f6940b57a43b65468d2dc10e22601b0ec5",
+      "last_played_unix": 1684032614,
+      "name": "Battlefield™ 1",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 709
+    },
+    {
+      "appid": 1245620,
+      "icon_hash": "b6e290dd5a92ce98f89089a207733c70c41a1871",
+      "last_played_unix": 1719788493,
+      "name": "ELDEN RING",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 3459
+    },
+    {
+      "appid": 1252330,
+      "icon_hash": "89c9294b6df3c0a2acae28c6376fd32c444b5a88",
+      "last_played_unix": 0,
+      "name": "DEATHLOOP",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1259420,
+      "icon_hash": "839338fcedd1033ab7f0d2a31c194fb880ebf7b5",
+      "last_played_unix": 1705179761,
+      "name": "Days Gone",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 38
+    },
+    {
+      "appid": 1272320,
+      "icon_hash": "3f6a00fbd8921cd0845af2cd96c3247f0863b194",
+      "last_played_unix": 1747504435,
+      "name": "Diplomacy is Not an Option",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 961
+    },
+    {
+      "appid": 1278190,
+      "icon_hash": "8e63e34dc6f371a9518c7f3238521f94195d0c27",
+      "last_played_unix": 0,
+      "name": "Jumpala",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1286580,
+      "icon_hash": "6154b229064a2f0c6b32f204aa31c41037ff8ec0",
+      "last_played_unix": 1732771933,
+      "name": "Ship of Fools",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 18
+    },
+    {
+      "appid": 1286680,
+      "icon_hash": "04df847d8960c8ba764764cf21bf96621c8e8314",
+      "last_played_unix": 1669783710,
+      "name": "Tiny Tina's Wonderlands",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 64
+    },
+    {
+      "appid": 1292040,
+      "icon_hash": "c78c597ab28d7152e28871c7c3aa884d2b84bdf5",
+      "last_played_unix": 0,
+      "name": "STRIDE",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1294810,
+      "icon_hash": "443a0002d184cb5a7f6eff19ce6a66697e49923c",
+      "last_played_unix": 0,
+      "name": "Redfall",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1296610,
+      "icon_hash": "1ab0b505d844a60144c10c9f8087a260a8db3904",
+      "last_played_unix": 1765333537,
+      "name": "Peglin",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 102
+    },
+    {
+      "appid": 1316910,
+      "icon_hash": "931ce6a219c843e44c503759ec9865f803988481",
+      "last_played_unix": 1772327196,
+      "name": "Super Monkey Ball Banana Mania",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 23
+    },
+    {
+      "appid": 1326470,
+      "icon_hash": "bd28fe592b339cff5a3eef743f31e3166c984c68",
+      "last_played_unix": 1678071998,
+      "name": "Sons Of The Forest",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 208
+    },
+    {
+      "appid": 1330460,
+      "icon_hash": "582812082e553df0c3257da4c369294166e0efaa",
+      "last_played_unix": 1639340570,
+      "name": "Becastled",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 718
+    },
+    {
+      "appid": 1333910,
+      "icon_hash": "d85e0010bc76856fc5f8f2c4df4c6a39ae1a006b",
+      "last_played_unix": 0,
+      "name": "Sizeable",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1349230,
+      "icon_hash": "9e2ee52db469e961ef9cbc78c63d45aabcd9c097",
+      "last_played_unix": 1767031557,
+      "name": "5D Chess With Multiverse Time Travel",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2
+    },
+    {
+      "appid": 1363080,
+      "icon_hash": "f0b869c004ddb564f961668130894f335fe04175",
+      "last_played_unix": 1747011969,
+      "name": "Manor Lords",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 798
+    },
+    {
+      "appid": 1369670,
+      "icon_hash": "78c6537863bca2d56d3c7227e51fe855812724e7",
+      "last_played_unix": 1737608205,
+      "name": "Motor Town: Behind The Wheel",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 20
+    },
+    {
+      "appid": 1378290,
+      "icon_hash": "06614d273068a32473835f6acdb327fdaa621e37",
+      "last_played_unix": 1768165041,
+      "name": "The Citadel",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 11
+    },
+    {
+      "appid": 1380060,
+      "icon_hash": "59dd756cefb9d3136f6800655dd199dff8348b3f",
+      "last_played_unix": 0,
+      "name": "Urban Trial Tricky",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1404850,
+      "icon_hash": "ce8b9c2719ccf0fb47c3b97eb58f758913a268fd",
+      "last_played_unix": 1736830672,
+      "name": "Luck be a Landlord",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 9
+    },
+    {
+      "appid": 1408720,
+      "icon_hash": "f161bd7364757e3858c622acf0ed8bba6458c8f8",
+      "last_played_unix": 1661484427,
+      "name": "Krunker",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 14
+    },
+    {
+      "appid": 1410640,
+      "icon_hash": "e3273f18903c25b6b034b9717bdd3e318b80ed4a",
+      "last_played_unix": 0,
+      "name": "Syberia - The World Before",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1411740,
+      "icon_hash": "e154018d350eefe123d71ce192827ad0f97a3122",
+      "last_played_unix": 1661397493,
+      "name": "Urbek City Builder",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 38
+    },
+    {
+      "appid": 1420770,
+      "icon_hash": "842f6a5ba9237016e4bb533371fa76d1d4ca2791",
+      "last_played_unix": 1787513851,
+      "name": "Winter Resort Simulator 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 25
+    },
+    {
+      "appid": 1426210,
+      "icon_hash": "6b15f6d81c4fc52056f4928b363b7fac591a945b",
+      "last_played_unix": 1732853505,
+      "name": "It Takes Two",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 10
+    },
+    {
+      "appid": 1448840,
+      "icon_hash": "c302910a8d1ffd5db532cfad6852eed212b26653",
+      "last_played_unix": 1760320577,
+      "name": "Very Very Valet",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 488
+    },
+    {
+      "appid": 1449110,
+      "icon_hash": "875904d1dbf5b23c755ea1f0b30fdad7a77063ac",
+      "last_played_unix": 1783362792,
+      "name": "The Outer Worlds 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 176
+    },
+    {
+      "appid": 1454400,
+      "icon_hash": "e0c68bbdb2813528f0802ef6751655e33a42c9bb",
+      "last_played_unix": 1738365453,
+      "name": "Cookie Clicker",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 20502
+    },
+    {
+      "appid": 1455840,
+      "icon_hash": "c7f24bc1facf1af3378ad655eed2dee7acc5c7b2",
+      "last_played_unix": 0,
+      "name": "Dorfromantik",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1458140,
+      "icon_hash": "bea29dede5c446d40700fd6c2c74abb933559716",
+      "last_played_unix": 1740534968,
+      "name": "Pacific Drive",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 4606
+    },
+    {
+      "appid": 1466640,
+      "icon_hash": "031fb207de40b078417ab77b2c4e00545e910ad1",
+      "last_played_unix": 1633575118,
+      "name": "Road 96",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 10
+    },
+    {
+      "appid": 1475810,
+      "icon_hash": "9b65bb20f181e58f6ff9a7bbb144830f0c44c195",
+      "last_played_unix": 0,
+      "name": "Ghostwire: Tokyo",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1478500,
+      "icon_hash": "aba91d96c91f87c1aa3d87eedae20fbbf01f2d54",
+      "last_played_unix": 0,
+      "name": "Big Walk",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1488490,
+      "icon_hash": "dc05e2e6e05b465f71434d3e40801ade2f8203ea",
+      "last_played_unix": 1791165390,
+      "name": "Nivalis Nights",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 45
+    },
+    {
+      "appid": 1520370,
+      "icon_hash": "1fd23bd6888fbd5bad331f71121ba70e5aff8473",
+      "last_played_unix": 1772157799,
+      "name": "Mon Bazou",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1919
+    },
+    {
+      "appid": 1548850,
+      "icon_hash": "10896561621de499b220167574c3acda30adf621",
+      "last_played_unix": 1748145720,
+      "name": "Six Days in Fallujah",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 317
+    },
+    {
+      "appid": 1566200,
+      "icon_hash": "73a1e915347137a533f058a4b5d7b2f744a499b7",
+      "last_played_unix": 1772346223,
+      "name": "Tape to Tape",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 455
+    },
+    {
+      "appid": 1569580,
+      "icon_hash": "a550431c3163f52ec65f00ddf701f9c0900da45c",
+      "last_played_unix": 1749270894,
+      "name": "Blue Prince",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1731
+    },
+    {
+      "appid": 1588550,
+      "icon_hash": "914a73b9181ab7b76cbe6f6b9b279fae3969ac80",
+      "last_played_unix": 1773373760,
+      "name": "Cairn",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1234
+    },
+    {
+      "appid": 1593350,
+      "icon_hash": "53b8cda514150d3792b315485a32622a37d62f77",
+      "last_played_unix": 1657390563,
+      "name": "Increlution",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 709
+    },
+    {
+      "appid": 1593500,
+      "icon_hash": "8aa5e7e0e55cad682c7f2e65e075c3bc04dfc1cb",
+      "last_played_unix": 1642469959,
+      "name": "God of War",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 55
+    },
+    {
+      "appid": 1599600,
+      "icon_hash": "c13221a2369c16d90681faf7786265a709586efe",
+      "last_played_unix": 1791770345,
+      "name": "PlateUp!",
+      "playtime_2weeks_minutes": 13,
+      "playtime_forever_minutes": 1041
+    },
+    {
+      "appid": 1599660,
+      "icon_hash": "c42cb1eb16ebb117ecf0cda47b7f0a8f80b79e8e",
+      "last_played_unix": 1672026333,
+      "name": "Sackboy™: A Big Adventure",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 122
+    },
+    {
+      "appid": 1601570,
+      "icon_hash": "d630b33a4739ec61aae711169ade4d88bb45c0ba",
+      "last_played_unix": 1760199580,
+      "name": "The Alters",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 3005
+    },
+    {
+      "appid": 1601580,
+      "icon_hash": "5e66161686d4e2503a8a42aab9e8bc1c46c68fc1",
+      "last_played_unix": 1735711537,
+      "name": "Frostpunk 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2494
+    },
+    {
+      "appid": 1611740,
+      "icon_hash": "1e2600c319e8f30162427eadaa6bb4d063823c62",
+      "last_played_unix": 1668273046,
+      "name": "BattleBit Remastered Playtest",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 174
+    },
+    {
+      "appid": 1623730,
+      "icon_hash": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
+      "last_played_unix": 1707095546,
+      "name": "Palworld",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1900
+    },
+    {
+      "appid": 1629520,
+      "icon_hash": "e783c2eadbfd7887a3c75a9f5e8ae60ef7296b90",
+      "last_played_unix": 1771032447,
+      "name": "A Little to the Left",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 50
+    },
+    {
+      "appid": 1637320,
+      "icon_hash": "4ecf3a011cf5eeb37d0072a1a182b7ea5140e3e2",
+      "last_played_unix": 1668018281,
+      "name": "Dome Keeper",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 255
+    },
+    {
+      "appid": 1640630,
+      "icon_hash": "9aac48626e441db0d71d96e3718f0a91b553be5a",
+      "last_played_unix": 0,
+      "name": "Heading Out",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1645820,
+      "icon_hash": "51a09232eed1243103f8d746b2f1b685322463f1",
+      "last_played_unix": 1768081362,
+      "name": "SurrounDead",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 7
+    },
+    {
+      "appid": 1651560,
+      "icon_hash": "2cb1d506b82a9b23f10371a03a0df72178f271f2",
+      "last_played_unix": 1716701525,
+      "name": "Fabledom",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 246
+    },
+    {
+      "appid": 1659040,
+      "icon_hash": "552be1d38866afd1c33f682323d325130e7d0ce6",
+      "last_played_unix": 1648278157,
+      "name": "HITMAN World of Assassination",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 488
+    },
+    {
+      "appid": 1693980,
+      "icon_hash": "3368d467f4f60f9f07ec4c206a22184fae060be2",
+      "last_played_unix": 0,
+      "name": "Dead Space",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1714040,
+      "icon_hash": "741a65b9af8572a8bffe15fe50ca2e35479d1526",
+      "last_played_unix": 1670728618,
+      "name": "Super Auto Pets",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 466
+    },
+    {
+      "appid": 1716740,
+      "icon_hash": "b4d5828937b2d29b875405dce97bbae0a5d01bbe",
+      "last_played_unix": 1705895863,
+      "name": "Starfield",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 181
+    },
+    {
+      "appid": 1757300,
+      "icon_hash": "bf17dea5fe4340915e328e29b00b6fc43579194b",
+      "last_played_unix": 1758765760,
+      "name": "Jump Space",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1003
+    },
+    {
+      "appid": 1771300,
+      "icon_hash": "80e8d75b87433627cafd2a1bcbb5b9f5741e2277",
+      "last_played_unix": 1785201722,
+      "name": "Kingdom Come: Deliverance II",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 10119
+    },
+    {
+      "appid": 1794680,
+      "icon_hash": "3677cf1be3be1f4ea42261c62ce10519715ade58",
+      "last_played_unix": 1779253856,
+      "name": "Vampire Survivors",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 5466
+    },
+    {
+      "appid": 1805110,
+      "icon_hash": "9b3bfcdf2ed8135883c809236d0cb6baf05a881d",
+      "last_played_unix": 0,
+      "name": "Solarpunk",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1817070,
+      "icon_hash": "346333cb340139ad8b697005e5c79a3162c387b0",
+      "last_played_unix": 1697864553,
+      "name": "Marvel’s Spider-Man Remastered",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 5289
+    },
+    {
+      "appid": 1817190,
+      "icon_hash": "fac57db36817793f8b53b220dfe76c692f502a8f",
+      "last_played_unix": 1697661954,
+      "name": "Marvel's Spider-Man: Miles Morales",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1026
+    },
+    {
+      "appid": 1843760,
+      "icon_hash": "2d7edc560025b7656657953a202f65d32fef4dcb",
+      "last_played_unix": 1761452358,
+      "name": "Rogue Tower",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 11178
+    },
+    {
+      "appid": 1846380,
+      "icon_hash": "c409703ef3603843ed93e80e3d5a5df96c50a4ec",
+      "last_played_unix": 1787877125,
+      "name": "Need for Speed™ Unbound",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 4427
+    },
+    {
+      "appid": 1860510,
+      "icon_hash": "b45fdbe3501a4c15d729965bf98c35a4f2576d3c",
+      "last_played_unix": 0,
+      "name": "Total Conflict: Resistance",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1867240,
+      "icon_hash": "3478031915eb3bbb2e8835a209aeafe066cb0d92",
+      "last_played_unix": 1792119489,
+      "name": "WARDOGS",
+      "playtime_2weeks_minutes": 1260,
+      "playtime_forever_minutes": 1830
+    },
+    {
+      "appid": 1874880,
+      "icon_hash": "0de311f3ef216db08badc6a9ef7c5fd8712ac334",
+      "last_played_unix": 1762056255,
+      "name": "Arma Reforger",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 3237
+    },
+    {
+      "appid": 1875060,
+      "icon_hash": "a7da96e540ed0afeaaed809f4fbb0746f34b81c1",
+      "last_played_unix": 0,
+      "name": "Reus 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1890860,
+      "icon_hash": "cc4ccaea0621ec054334edb07c00c834bf496056",
+      "last_played_unix": 0,
+      "name": "Arma Reforger Experimental",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1903340,
+      "icon_hash": "d569d17097e2a2991cc5097939948ea075bdd653",
+      "last_played_unix": 1771897348,
+      "name": "Clair Obscur: Expedition 33",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2355
+    },
+    {
+      "appid": 1913370,
+      "icon_hash": "b9849713b48917eeb7d48bb1ffa87d1e18b7a90f",
+      "last_played_unix": 0,
+      "name": "OPERATOR",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1920490,
+      "icon_hash": "74b001635a01a0f2e504ec0a842ec53171906a1b",
+      "last_played_unix": 0,
+      "name": "The Outer Worlds: Spacer's Choice Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1941540,
+      "icon_hash": "4afa63381aebb28b832279ac0679d258b86e9cec",
+      "last_played_unix": 1755047954,
+      "name": "Mafia: The Old Country",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1903
+    },
+    {
+      "appid": 1942280,
+      "icon_hash": "d9dfcab8f300a9548439f70bef7b5f4e53d0fc28",
+      "last_played_unix": 0,
+      "name": "Brotato",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1951230,
+      "icon_hash": "ef12ead6d5cd92c5f32ab45ac0827be80066b592",
+      "last_played_unix": 1760284745,
+      "name": "Pizza Possum",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 458
+    },
+    {
+      "appid": 1962700,
+      "icon_hash": "a6810ae79dc1592fdd890f463311cb5b8df8aa3c",
+      "last_played_unix": 1779934756,
+      "name": "Subnautica 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 795
+    },
+    {
+      "appid": 1966720,
+      "icon_hash": "80d2453285274e4723c884a671cdd3f8fe2f766f",
+      "last_played_unix": 1739081805,
+      "name": "Lethal Company",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2793
+    },
+    {
+      "appid": 1975580,
+      "icon_hash": "376f76a291d0b8fb6b80d4a9b75b6e32a60fc616",
+      "last_played_unix": 0,
+      "name": "Wild Woods",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2013580,
+      "icon_hash": "b1ecd7639b2fb561292abde277ec461ac3d6f1c9",
+      "last_played_unix": 0,
+      "name": "XP Soccer",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2060160,
+      "icon_hash": "c5e5f32afc4cc79cc7a92bf174375367509e2866",
+      "last_played_unix": 1774145448,
+      "name": "The Farmer Was Replaced",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 8632
+    },
+    {
+      "appid": 2075730,
+      "icon_hash": "64348aa1d7727f9f689051869d98c4fb0d0f1fe7",
+      "last_played_unix": 1664073613,
+      "name": "Call of Duty®: Modern Warfare® II - Open Beta",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 52
+    },
+    {
+      "appid": 2086680,
+      "icon_hash": "3a2d51920311db701f2304445740f038f44fa1f1",
+      "last_played_unix": 1776646157,
+      "name": "Castle Craft",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 137
+    },
+    {
+      "appid": 2119830,
+      "icon_hash": "5dad8d633082af6ad83cf023ea8e2ac5ecece72f",
+      "last_played_unix": 1767128273,
+      "name": "MISERY",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 10
+    },
+    {
+      "appid": 2124120,
+      "icon_hash": "0318de1440e1d615715f8092a58ae203761b5fad",
+      "last_played_unix": 1792113565,
+      "name": "SULFUR",
+      "playtime_2weeks_minutes": 62,
+      "playtime_forever_minutes": 62
+    },
+    {
+      "appid": 2133760,
+      "icon_hash": "d2bbabecbe3eb7cdbf2bb23f9be0ebc92baae694",
+      "last_played_unix": 0,
+      "name": "Tiny Bookshop",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2149010,
+      "icon_hash": "6d1326d97decbaeddca21c14daa5041d464a1a63",
+      "last_played_unix": 0,
+      "name": "Little Nightmares Enhanced Edition",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2195120,
+      "icon_hash": "76e8620654f59be3451bb78c80d2ab6d92b59629",
+      "last_played_unix": 0,
+      "name": "Go-Go Town!",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2211170,
+      "icon_hash": "b1eea80c219787aa6bf7e6bbda8e1a039c145cd8",
+      "last_played_unix": 1765681582,
+      "name": "Unrailed 2: Back on Track",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 11
+    },
+    {
+      "appid": 2221490,
+      "icon_hash": "415d18aa79e74e33b58406d721110e6ef836fb14",
+      "last_played_unix": 0,
+      "name": "Tom Clancy's The Division 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2239550,
+      "icon_hash": "66909b160660967933f4ffed89d10d1b1cc5df32",
+      "last_played_unix": 1685901169,
+      "name": "Watch Dogs: Legion",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 30
+    },
+    {
+      "appid": 2348100,
+      "icon_hash": "97c381bbf540f64c402ea19ee4a807232fa7684f",
+      "last_played_unix": 1698280028,
+      "name": "YEAH! YOU WANT \"THOSE GAMES,\" RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM!",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 224
+    },
+    {
+      "appid": 2369390,
+      "icon_hash": "178c21f6ed3ea43c9e5b3c9ea2919e7bca63c7b0",
+      "last_played_unix": 0,
+      "name": "Far Cry 6",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2379780,
+      "icon_hash": "b6018068070ab0e23561694c11f7950dd6f4c752",
+      "last_played_unix": 1765653458,
+      "name": "Balatro",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2390
+    },
+    {
+      "appid": 2404880,
+      "icon_hash": "38359d7717ffeed85380734e4b2b964454986ace",
+      "last_played_unix": 0,
+      "name": "Car Dealer Simulator",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2406770,
+      "icon_hash": "793bf9dd10a0c8838879adca10459e77e1f02c51",
+      "last_played_unix": 1788998921,
+      "name": "Bodycam",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 91
+    },
+    {
+      "appid": 2416450,
+      "icon_hash": "6801b6dca9608f4ce32d718b127cb45ed874d316",
+      "last_played_unix": 1779236010,
+      "name": "MOUSE: P.I. For Hire",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 587
+    },
+    {
+      "appid": 2464880,
+      "icon_hash": "a1a5bfedc32fe66b4a384527ef400e84873e8f7d",
+      "last_played_unix": 1720132801,
+      "name": "Terracards",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 254
+    },
+    {
+      "appid": 2524850,
+      "icon_hash": "622975727edb5e42ef803af735bcd12c5401fc7a",
+      "last_played_unix": 1785372985,
+      "name": "Denshattack!",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 11
+    },
+    {
+      "appid": 2623190,
+      "icon_hash": "bad7d3e3c722ffc68af54cbe545dcc5978d87638",
+      "last_played_unix": 1763947547,
+      "name": "The Elder Scrolls IV: Oblivion Remastered",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 106
+    },
+    {
+      "appid": 2635410,
+      "icon_hash": "4a1d30894946a782014e8542884e64c25c2b062a",
+      "last_played_unix": 0,
+      "name": "Holdfast: Nations At War - Testing Branch",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2651280,
+      "icon_hash": "74853ef20b2cce99818a4732ffb38a1234db2827",
+      "last_played_unix": 1785203470,
+      "name": "Marvel's Spider-Man 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 228
+    },
+    {
+      "appid": 2667120,
+      "icon_hash": "166319bf3178855888b8aec7c3f59b7e2186870b",
+      "last_played_unix": 1735200618,
+      "name": "Ballionaire",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 146
+    },
+    {
+      "appid": 2668510,
+      "icon_hash": "c48b2bcf02c05ad184c5f443c8969c9ee304c883",
+      "last_played_unix": 1750218155,
+      "name": "Red Dead Redemption",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 6352
+    },
+    {
+      "appid": 2670630,
+      "icon_hash": "b76ce5e747870bed95bf994f95103a3dd143d4da",
+      "last_played_unix": 1773629980,
+      "name": "Supermarket Simulator",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 5442
+    },
+    {
+      "appid": 2681030,
+      "icon_hash": "32bb269bd3bb92e77f3af2183b178050cab6c1d0",
+      "last_played_unix": 1788892941,
+      "name": "Outbound",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 17
+    },
+    {
+      "appid": 2683150,
+      "icon_hash": "6e1038bd3486fc5a82752c9e4580b8bda8f98945",
+      "last_played_unix": 1744598748,
+      "name": "Ale & Tale Tavern",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 29
+    },
+    {
+      "appid": 2708450,
+      "icon_hash": "d86c671ce82cc289fc8c918d34d881313fa82b8c",
+      "last_played_unix": 0,
+      "name": "Oh Deer",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2709570,
+      "icon_hash": "df024275a7ba53c79008b45c0d74b4a2e6a2069b",
+      "last_played_unix": 1731115739,
+      "name": "Supermarket Together",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 62
+    },
+    {
+      "appid": 2744230,
+      "icon_hash": "9a389518dcb9f2d89b396eb9c7851b5872a11416",
+      "last_played_unix": 1728172907,
+      "name": "YEAH! YOU WANT \"THOSE GAMES,\" RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM! 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 75
+    },
+    {
+      "appid": 2773280,
+      "icon_hash": "b1eeb415c1b44677b667de93549594d313e78a8b",
+      "last_played_unix": 0,
+      "name": "ANEURISM IV",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2784470,
+      "icon_hash": "d1d0c590e82d977b24e1070a9ec1aeea9e4cd9f4",
+      "last_played_unix": 1768173849,
+      "name": "9 Kings",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 91
+    },
+    {
+      "appid": 2790330,
+      "icon_hash": "b5d8c5f350494fecd606d4dd5513881f1db6f2ac",
+      "last_played_unix": 1768164313,
+      "name": "Blood Typers",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 19
+    },
+    {
+      "appid": 2807960,
+      "icon_hash": "3059e94fb89816fe1929a238ac2b55e8be348408",
+      "last_played_unix": 1773628824,
+      "name": "Battlefield™ 6",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 3076
+    },
+    {
+      "appid": 2819470,
+      "icon_hash": "2409ed31ef7d7ccdf913d3cde01a02834c3a63f0",
+      "last_played_unix": 1786843268,
+      "name": "Aquapark Tycoon",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 47
+    },
+    {
+      "appid": 2835570,
+      "icon_hash": "81779afdc4209795d9ccf7948514b9a227acf601",
+      "last_played_unix": 0,
+      "name": "Buckshot Roulette",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2881650,
+      "icon_hash": "513cf7f2e22c94f4372369e29bffccc4c239e9c0",
+      "last_played_unix": 1716608500,
+      "name": "Content Warning",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 266
+    },
+    {
+      "appid": 2918500,
+      "icon_hash": "e730f155e6dc6d588478e676fa46cfb110b94111",
+      "last_played_unix": 0,
+      "name": "Cozy Island",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2920570,
+      "icon_hash": "62c9f3f430a95583de78cc0b5eaa9285158803fe",
+      "last_played_unix": 0,
+      "name": "Dale & Dawson Stationery Supplies",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2950790,
+      "icon_hash": "9e5fd22a0678b6d1b82850f2f95a83f82f2a1c96",
+      "last_played_unix": 1787878841,
+      "name": "IRON NEST: Heavy Turret Simulator",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 380
+    },
+    {
+      "appid": 2956680,
+      "icon_hash": "aeb2019a4afe58d7ee672478a41650b2aa5d8454",
+      "last_played_unix": 1781222729,
+      "name": "LORT",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 385
+    },
+    {
+      "appid": 2961880,
+      "icon_hash": "1e3bd007db8860a1a0e2c3ad90d0189656155adf",
+      "last_played_unix": 1725499714,
+      "name": "Grocery Store Simulator",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 20
+    },
+    {
+      "appid": 2968420,
+      "icon_hash": "22c3afc784b39c76ac7c0a5c4771ce68b548e431",
+      "last_played_unix": 0,
+      "name": "PowerWash Simulator 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2980270,
+      "icon_hash": "930059a5070f90c3c60e10b1a6297113875636cb",
+      "last_played_unix": 1781569181,
+      "name": "HackHub - Ultimate Hacker Simulator",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 60
+    },
+    {
+      "appid": 3062970,
+      "icon_hash": "72d7b1e3bff09ba9f3fa98a63e307c6e06e8ce9e",
+      "last_played_unix": 0,
+      "name": "Fishlike",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 3070070,
+      "icon_hash": "ade567b04584ff71000ff91a8dd65aac4833206b",
+      "last_played_unix": 1731042485,
+      "name": "TCG Card Shop Simulator",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 46
+    },
+    {
+      "appid": 3089380,
+      "icon_hash": "4ad58ff924f89ee08dd47c9f8c173fc342b59988",
+      "last_played_unix": 1786413585,
+      "name": "Aquapark Tycoon Demo",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 74
+    },
+    {
+      "appid": 3111080,
+      "icon_hash": "23a491ef58f3a879b459624cb34a0ebc11b3f835",
+      "last_played_unix": 1770349497,
+      "name": "Secret Agent Wizard Boy and the International Crime Syndicate",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 365
+    },
+    {
+      "appid": 3146520,
+      "icon_hash": "f59f42d0b227a8161ac5bc5106d17fe6ba146157",
+      "last_played_unix": 0,
+      "name": "WEBFISHING",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 3164500,
+      "icon_hash": "3d9f9ed56cb6e1ba995883207290c39674e9c411",
+      "last_played_unix": 1761770961,
+      "name": "Schedule I",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2330
+    },
+    {
+      "appid": 3240220,
+      "icon_hash": "8355a7bbdb704f727bfba80ec56bc7228991338e",
+      "last_played_unix": 0,
+      "name": "Grand Theft Auto V Enhanced",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 3241660,
+      "icon_hash": "b8bf4770408fc369e15cebd42e0026a27b67aaa8",
+      "last_played_unix": 1753595798,
+      "name": "R.E.P.O.",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 339
+    },
+    {
+      "appid": 3244220,
+      "icon_hash": "42e30470e2691b8be5e5be7892193da955f30c4c",
+      "last_played_unix": 1748754440,
+      "name": "A Game About Digging A Hole™",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 310
+    },
+    {
+      "appid": 3293010,
+      "icon_hash": "0260d6785cf1cab2aab9d490f42224f98bab9472",
+      "last_played_unix": 1762222714,
+      "name": "Easy Delivery Co.",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 542
+    },
+    {
+      "appid": 3314790,
+      "icon_hash": "93fcc4d2c3798356f019f030e7599dc13bd6a95a",
+      "last_played_unix": 1770349630,
+      "name": "CloverPit",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 114
+    },
+    {
+      "appid": 3326230,
+      "icon_hash": "0a589003807db78755d6898f13eae077d5cef1ca",
+      "last_played_unix": 0,
+      "name": "Hozy",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 3361470,
+      "icon_hash": "a67338f36c57644918e38e0f4fac773b2e53624a",
+      "last_played_unix": 1737746998,
+      "name": "Digseum",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 178
+    },
+    {
+      "appid": 3371240,
+      "icon_hash": "f630c28fa314d37bbb420cbdbc844ef05c106289",
+      "last_played_unix": 0,
+      "name": "Beyond Citadel",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 3405340,
+      "icon_hash": "8e0ff36cdb1076d69347a2796c7ef5ee18b2fee8",
+      "last_played_unix": 1782950758,
+      "name": "Megabonk",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2686
+    },
+    {
+      "appid": 3438850,
+      "icon_hash": "ba843d8333f208f3434c9b4a6520675ead74e195",
+      "last_played_unix": 1780252393,
+      "name": "Sledding Game",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 85
+    },
+    {
+      "appid": 3527290,
+      "icon_hash": "b3a992fd5991bd2f4c956d58e062b0ce2988d6cd",
+      "last_played_unix": 1765646347,
+      "name": "PEAK",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 337
+    },
+    {
+      "appid": 3547270,
+      "icon_hash": "989e852e5220ccd91f7c99007b34cc708213e9d1",
+      "last_played_unix": 1791165723,
+      "name": "Worming from Home",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 4
+    },
+    {
+      "appid": 3552140,
+      "icon_hash": "11dc3b0827d24a42c8867d9e117f10f130437e9c",
+      "last_played_unix": 1779993249,
+      "name": "Retro Rewind - Video Store Simulator",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 2596
+    },
+    {
+      "appid": 3583210,
+      "icon_hash": "b9eab26444b35befe4e4c1a8c9cddf93d804241a",
+      "last_played_unix": 0,
+      "name": "Crashout Crew",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 3586660,
+      "icon_hash": "34af78c04609d91814066c16791d5182caeac4cf",
+      "last_played_unix": 1754005503,
+      "name": "Word Play",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 4
+    },
+    {
+      "appid": 3602570,
+      "icon_hash": "b5100a26032ce2e4161b647810852de6f429584a",
+      "last_played_unix": 1780253346,
+      "name": "Horsey Game",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 236
+    },
+    {
+      "appid": 3624140,
+      "icon_hash": "87944a0e2a16ef3ad17d908d1dbb4f285fb02978",
+      "last_played_unix": 0,
+      "name": "Wanderburg",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 3643170,
+      "icon_hash": "f1a1fc79596a32998ceb7e01ae8c7525590e7576",
+      "last_played_unix": 1786926902,
+      "name": "Roadside Research",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 23
+    },
+    {
+      "appid": 3711050,
+      "icon_hash": "b88dd12b6bdf3c6065f08b8a9e9d5563e6e1e814",
+      "last_played_unix": 1789433444,
+      "name": "BeaterCore",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 29
+    },
+    {
+      "appid": 3722330,
+      "icon_hash": "01fd2fcc54b5bfe212e8b7968573192db9782711",
+      "last_played_unix": 1786925634,
+      "name": "Shift At Midnight",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 146
+    },
+    {
+      "appid": 3751950,
+      "icon_hash": "07bbd08f5147d18c3e86c6216a33ad99683771d2",
+      "last_played_unix": 1788891747,
+      "name": "Assassin's Creed Black Flag Resynced",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1503
+    },
+    {
+      "appid": 3768760,
+      "icon_hash": "feccaf73a3bde702d1978afff6ba6540bf5331fe",
+      "last_played_unix": 1781662007,
+      "name": "007 First Light",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 991
+    },
+    {
+      "appid": 3784030,
+      "icon_hash": "dcd64762cf678a859c7a527303bd9c77f6fba61d",
+      "last_played_unix": 1785976469,
+      "name": "RACCOIN: Coin Pusher Roguelike",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 5
+    },
+    {
+      "appid": 3812600,
+      "icon_hash": "223fc3dfb2c254906f0d311e682cbcaedab4f181",
+      "last_played_unix": 1786409030,
+      "name": "ReStory: Chill Electronics Repairs",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 387
+    },
+    {
+      "appid": 3849000,
+      "icon_hash": "4b2e07dbef0f9d35009b5a81d003de4d8ee16b7c",
+      "last_played_unix": 1787885045,
+      "name": "The Lantern of the Laughless Saint",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 93
+    },
+    {
+      "appid": 3892270,
+      "icon_hash": "620adde61e9a7003f375bb5979fadde34eafa9d6",
+      "last_played_unix": 1786071029,
+      "name": "Gamble With Your Friends",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 741
+    },
+    {
+      "appid": 3934270,
+      "icon_hash": "dc1501eb751b913eb1e9f01eb7728b41a06aeef3",
+      "last_played_unix": 1785976085,
+      "name": "How Many Dudes?",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 31
+    },
+    {
+      "appid": 3948120,
+      "icon_hash": "dbc0f0af8d59826ff370f613098192e11609e8f4",
+      "last_played_unix": 1780249509,
+      "name": "Scritchy Scratchy",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1104
+    },
+    {
+      "appid": 3949040,
+      "icon_hash": "cd01f1daaaa3fb022e9913dc2d66a23c5091b5d5",
+      "last_played_unix": 1771733598,
+      "name": "RV There Yet?",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 201
+    },
+    {
+      "appid": 4001890,
+      "icon_hash": "5c598fcb05447d87a6c67b5b9224103d7d93c16d",
+      "last_played_unix": 1788886566,
+      "name": "How to Fish",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 616
+    },
+    {
+      "appid": 4026250,
+      "icon_hash": "0bd956032c8d3e12e522702e9edda20d64c95cd6",
+      "last_played_unix": 1788917468,
+      "name": "Project P.I.T.T.",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 552
+    },
+    {
+      "appid": 4069520,
+      "icon_hash": "8de662d89d7bbabbccb9ada6c082dcc3c5c61c9d",
+      "last_played_unix": 0,
+      "name": "Super Battle Golf",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 4164420,
+      "icon_hash": "3e60aecdb7c7d6f90d6061bbe8e789664abf1cdb",
+      "last_played_unix": 0,
+      "name": "My Winter Car",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 4173620,
+      "icon_hash": "34194c4b3504a7de33cef885287528871b0f74ea",
+      "last_played_unix": 1785981026,
+      "name": "I Know a Guy: Shady Life Simulator",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 1334
+    },
+    {
+      "appid": 4197610,
+      "icon_hash": "2ee4f16b8de69873c13c7e3432f126e8bde5f4ad",
+      "last_played_unix": 0,
+      "name": "Librarian: Tidy Up the Arcane Library!",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 4206270,
+      "icon_hash": "0abcebe2d3a294d5dd266cb3a66dff1d791d80bf",
+      "last_played_unix": 1785211407,
+      "name": "Wireworks",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 11
+    },
+    {
+      "appid": 4704690,
+      "icon_hash": "fbef288370f6ae51cb0a5066d7fb13d26147c94a",
+      "last_played_unix": 1783909506,
+      "name": "MECCHA CHAMELEON",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 325
+    },
+    {
+      "appid": 4874400,
+      "icon_hash": "eaf76b60d7139f4e5c4a142579c62476872c85d6",
+      "last_played_unix": 1792535408,
+      "name": "framepacer",
+      "playtime_2weeks_minutes": 1,
+      "playtime_forever_minutes": 5841
+    }
+  ],
+  "previous_snapshot_updated_at": null,
+  "removed": [],
+  "schema_version": 1,
+  "snapshot_updated_at": "2026-10-20T23:17:27Z",
+  "updated": []
+}
