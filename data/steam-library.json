@@ -324,10 +324,10 @@
     {
       "appid": 24880,
       "icon_hash": "fd29235b1565127a71fd1065a4347d4ea780f1fc",
-      "last_played_unix": 1792621129,
+      "last_played_unix": 1792626319,
       "name": "The Saboteur™",
-      "playtime_2weeks_minutes": 114,
-      "playtime_forever_minutes": 123
+      "playtime_2weeks_minutes": 201,
+      "playtime_forever_minutes": 210
     },
     {
       "appid": 24960,
@@ -2742,7 +2742,7 @@
       "icon_hash": "928df2d32021f480499a97458068f62c45298e7a",
       "last_played_unix": 1791943315,
       "name": "Far Cry 5",
-      "playtime_2weeks_minutes": 246,
+      "playtime_2weeks_minutes": 226,
       "playtime_forever_minutes": 1032
     },
     {
@@ -4668,10 +4668,10 @@
     {
       "appid": 1867240,
       "icon_hash": "3478031915eb3bbb2e8835a209aeafe066cb0d92",
-      "last_played_unix": 1792119489,
+      "last_played_unix": 1792631731,
       "name": "WARDOGS",
-      "playtime_2weeks_minutes": 963,
-      "playtime_forever_minutes": 1830
+      "playtime_2weeks_minutes": 907,
+      "playtime_forever_minutes": 1920
     },
     {
       "appid": 1874880,
@@ -5484,6 +5484,6 @@
   ],
   "profile_url": "https://steamcommunity.com/profiles/76561198035296905/",
   "schema_version": 1,
-  "snapshot_updated_at": "2026-10-21T22:27:47Z",
+  "snapshot_updated_at": "2026-10-22T01:37:05Z",
   "steam_id": "76561198035296905"
 }
