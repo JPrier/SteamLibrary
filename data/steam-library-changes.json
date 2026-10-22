@@ -1,25 +1,16 @@
 {
   "added": [],
-  "previous_snapshot_updated_at": "2026-10-22T07:43:49Z",
+  "previous_snapshot_updated_at": "2026-10-22T18:38:17Z",
   "removed": [],
   "schema_version": 1,
-  "snapshot_updated_at": "2026-10-22T18:38:17Z",
+  "snapshot_updated_at": "2026-10-22T22:27:38Z",
   "updated": [
     {
       "appid": 552520,
       "fields": {
         "playtime_2weeks_minutes": {
-          "after": 87,
-          "before": 226
-        }
-      }
-    },
-    {
-      "appid": 1566200,
-      "fields": {
-        "icon_hash": {
-          "after": "7b80f42a7f8c19f1ce6f39c6e547c27a5536738a",
-          "before": "73a1e915347137a533f058a4b5d7b2f744a499b7"
+          "after": 23,
+          "before": 87
         }
       }
     }
