@@ -1,16 +1,16 @@
 {
   "added": [],
-  "previous_snapshot_updated_at": "2026-10-24T18:14:27Z",
+  "previous_snapshot_updated_at": "2026-10-24T20:57:52Z",
   "removed": [],
   "schema_version": 1,
-  "snapshot_updated_at": "2026-10-24T20:57:52Z",
+  "snapshot_updated_at": "2026-10-24T23:22:23Z",
   "updated": [
     {
       "appid": 1867240,
       "fields": {
         "playtime_2weeks_minutes": {
-          "after": 871,
-          "before": 932
+          "after": 759,
+          "before": 871
         }
       }
     }
