@@ -1,25 +1,16 @@
 {
-  "added": [
-    {
-      "appid": 4954910,
-      "icon_hash": "0605eccd17a2d7fe5eaa32b8d7a41088a36dd80b",
-      "last_played_unix": 0,
-      "name": "Scam With Your Friends",
-      "playtime_2weeks_minutes": null,
-      "playtime_forever_minutes": 0
-    }
-  ],
-  "previous_snapshot_updated_at": "2026-10-24T23:22:23Z",
+  "added": [],
+  "previous_snapshot_updated_at": "2026-10-25T01:19:40Z",
   "removed": [],
   "schema_version": 1,
-  "snapshot_updated_at": "2026-10-25T01:19:40Z",
+  "snapshot_updated_at": "2026-10-25T06:16:58Z",
   "updated": [
     {
       "appid": 1867240,
       "fields": {
         "playtime_2weeks_minutes": {
-          "after": 641,
-          "before": 759
+          "after": 542,
+          "before": 641
         }
       }
     },
@@ -27,16 +18,16 @@
       "appid": 3722330,
       "fields": {
         "last_played_unix": {
-          "after": 1792890586,
-          "before": 1786925634
+          "after": 1792894735,
+          "before": 1792890586
         },
         "playtime_2weeks_minutes": {
-          "after": 90,
-          "before": null
+          "after": 159,
+          "before": 90
         },
         "playtime_forever_minutes": {
-          "after": 236,
-          "before": 146
+          "after": 305,
+          "before": 236
         }
       }
     }
