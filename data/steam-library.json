@@ -1,5 +1,5 @@
 {
-  "game_count": 685,
+  "game_count": 686,
   "games": [
     {
       "appid": 70,
@@ -4670,7 +4670,7 @@
       "icon_hash": "3478031915eb3bbb2e8835a209aeafe066cb0d92",
       "last_played_unix": 1792814602,
       "name": "WARDOGS",
-      "playtime_2weeks_minutes": 759,
+      "playtime_2weeks_minutes": 641,
       "playtime_forever_minutes": 2130
     },
     {
@@ -5332,10 +5332,10 @@
     {
       "appid": 3722330,
       "icon_hash": "01fd2fcc54b5bfe212e8b7968573192db9782711",
-      "last_played_unix": 1786925634,
+      "last_played_unix": 1792890586,
       "name": "Shift At Midnight",
-      "playtime_2weeks_minutes": null,
-      "playtime_forever_minutes": 146
+      "playtime_2weeks_minutes": 90,
+      "playtime_forever_minutes": 236
     },
     {
       "appid": 3751950,
@@ -5480,10 +5480,18 @@
       "name": "framepacer",
       "playtime_2weeks_minutes": 1,
       "playtime_forever_minutes": 5841
+    },
+    {
+      "appid": 4954910,
+      "icon_hash": "0605eccd17a2d7fe5eaa32b8d7a41088a36dd80b",
+      "last_played_unix": 0,
+      "name": "Scam With Your Friends",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
     }
   ],
   "profile_url": "https://steamcommunity.com/profiles/76561198035296905/",
   "schema_version": 1,
-  "snapshot_updated_at": "2026-10-24T23:22:23Z",
+  "snapshot_updated_at": "2026-10-25T01:19:40Z",
   "steam_id": "76561198035296905"
 }
