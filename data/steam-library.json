@@ -324,10 +324,10 @@
     {
       "appid": 24880,
       "icon_hash": "fd29235b1565127a71fd1065a4347d4ea780f1fc",
-      "last_played_unix": 1792967341,
+      "last_played_unix": 1792977220,
       "name": "The Saboteur™",
-      "playtime_2weeks_minutes": 639,
-      "playtime_forever_minutes": 648
+      "playtime_2weeks_minutes": 644,
+      "playtime_forever_minutes": 653
     },
     {
       "appid": 24960,
@@ -4054,7 +4054,7 @@
       "icon_hash": "bb731d6554f7614b5c2ad1acb511286de1cc7ba4",
       "last_played_unix": 1791768250,
       "name": "Wobbly Life",
-      "playtime_2weeks_minutes": 14,
+      "playtime_2weeks_minutes": 5,
       "playtime_forever_minutes": 14
     },
     {
@@ -4670,7 +4670,7 @@
       "icon_hash": "3478031915eb3bbb2e8835a209aeafe066cb0d92",
       "last_played_unix": 1792814602,
       "name": "WARDOGS",
-      "playtime_2weeks_minutes": 532,
+      "playtime_2weeks_minutes": 398,
       "playtime_forever_minutes": 2130
     },
     {
@@ -5332,10 +5332,10 @@
     {
       "appid": 3722330,
       "icon_hash": "01fd2fcc54b5bfe212e8b7968573192db9782711",
-      "last_played_unix": 1792967790,
+      "last_played_unix": 1792977172,
       "name": "Shift At Midnight",
-      "playtime_2weeks_minutes": 166,
-      "playtime_forever_minutes": 312
+      "playtime_2weeks_minutes": 322,
+      "playtime_forever_minutes": 468
     },
     {
       "appid": 3751950,
@@ -5492,6 +5492,6 @@
   ],
   "profile_url": "https://steamcommunity.com/profiles/76561198035296905/",
   "schema_version": 1,
-  "snapshot_updated_at": "2026-10-25T22:39:16Z",
+  "snapshot_updated_at": "2026-10-26T01:18:53Z",
   "steam_id": "76561198035296905"
 }
