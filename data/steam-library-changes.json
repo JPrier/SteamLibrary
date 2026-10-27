@@ -1,24 +1,24 @@
 {
   "added": [],
-  "previous_snapshot_updated_at": "2026-10-27T05:16:20Z",
+  "previous_snapshot_updated_at": "2026-10-27T16:43:53Z",
   "removed": [],
   "schema_version": 1,
-  "snapshot_updated_at": "2026-10-27T16:43:53Z",
+  "snapshot_updated_at": "2026-10-27T21:22:55Z",
   "updated": [
     {
       "appid": 24880,
       "fields": {
         "last_played_unix": {
-          "after": 1793117876,
-          "before": 1793066378
+          "after": 1793135880,
+          "before": 1793117876
         },
         "playtime_2weeks_minutes": {
-          "after": 953,
-          "before": 803
+          "after": 1253,
+          "before": 953
         },
         "playtime_forever_minutes": {
-          "after": 961,
-          "before": 811
+          "after": 1261,
+          "before": 961
         }
       }
     }
