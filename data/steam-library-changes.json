@@ -1,41 +1,41 @@
 {
-  "added": [],
-  "previous_snapshot_updated_at": "2026-10-28T06:55:14Z",
+  "added": [
+    {
+      "appid": 5228920,
+      "icon_hash": "3cb9de63d2468cce178e7d2207c6e23053007aaf",
+      "last_played_unix": 0,
+      "name": "Brick by Brick: Tidy Up the Small Town!",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 5335510,
+      "icon_hash": "aec99ceb3e40d5b7f9ed94a9200878bd9d65bf76",
+      "last_played_unix": 0,
+      "name": "Moon Sweepers",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    }
+  ],
+  "previous_snapshot_updated_at": "2026-10-28T19:39:34Z",
   "removed": [],
   "schema_version": 1,
-  "snapshot_updated_at": "2026-10-28T19:39:34Z",
+  "snapshot_updated_at": "2026-10-29T00:03:56Z",
   "updated": [
-    {
-      "appid": 24880,
-      "fields": {
-        "last_played_unix": {
-          "after": 1793214446,
-          "before": 1793141737
-        },
-        "playtime_2weeks_minutes": {
-          "after": 1399,
-          "before": 1350
-        },
-        "playtime_forever_minutes": {
-          "after": 1408,
-          "before": 1359
-        }
-      }
-    },
     {
       "appid": 1867240,
       "fields": {
         "last_played_unix": {
-          "after": 1793215423,
-          "before": 1793062343
+          "after": 1793230840,
+          "before": 1793215423
         },
         "playtime_2weeks_minutes": {
-          "after": 516,
-          "before": 507
+          "after": 737,
+          "before": 516
         },
         "playtime_forever_minutes": {
-          "after": 2248,
-          "before": 2240
+          "after": 2469,
+          "before": 2248
         }
       }
     }

@@ -1,5 +1,5 @@
 {
-  "game_count": 686,
+  "game_count": 688,
   "games": [
     {
       "appid": 70,
@@ -4668,10 +4668,10 @@
     {
       "appid": 1867240,
       "icon_hash": "3478031915eb3bbb2e8835a209aeafe066cb0d92",
-      "last_played_unix": 1793215423,
+      "last_played_unix": 1793230840,
       "name": "WARDOGS",
-      "playtime_2weeks_minutes": 516,
-      "playtime_forever_minutes": 2248
+      "playtime_2weeks_minutes": 737,
+      "playtime_forever_minutes": 2469
     },
     {
       "appid": 1874880,
@@ -5488,10 +5488,26 @@
       "name": "Scam With Your Friends",
       "playtime_2weeks_minutes": null,
       "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 5228920,
+      "icon_hash": "3cb9de63d2468cce178e7d2207c6e23053007aaf",
+      "last_played_unix": 0,
+      "name": "Brick by Brick: Tidy Up the Small Town!",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 5335510,
+      "icon_hash": "aec99ceb3e40d5b7f9ed94a9200878bd9d65bf76",
+      "last_played_unix": 0,
+      "name": "Moon Sweepers",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
     }
   ],
   "profile_url": "https://steamcommunity.com/profiles/76561198035296905/",
   "schema_version": 1,
-  "snapshot_updated_at": "2026-10-28T19:39:34Z",
+  "snapshot_updated_at": "2026-10-29T00:03:56Z",
   "steam_id": "76561198035296905"
 }
