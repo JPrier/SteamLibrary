@@ -5059,7 +5059,7 @@
     },
     {
       "appid": 2835570,
-      "icon_hash": "81779afdc4209795d9ccf7948514b9a227acf601",
+      "icon_hash": "b813298efcd6e936076f721365f20b192fbbe556",
       "last_played_unix": 0,
       "name": "Buckshot Roulette",
       "playtime_2weeks_minutes": null,
@@ -5508,6 +5508,6 @@
   ],
   "profile_url": "https://steamcommunity.com/profiles/76561198035296905/",
   "schema_version": 1,
-  "snapshot_updated_at": "2026-10-29T05:59:11Z",
+  "snapshot_updated_at": "2026-10-29T19:00:18Z",
   "steam_id": "76561198035296905"
 }
