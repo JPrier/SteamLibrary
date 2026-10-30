@@ -4670,7 +4670,7 @@
       "icon_hash": "3478031915eb3bbb2e8835a209aeafe066cb0d92",
       "last_played_unix": 1793324383,
       "name": "WARDOGS",
-      "playtime_2weeks_minutes": 981,
+      "playtime_2weeks_minutes": 966,
       "playtime_forever_minutes": 2797
     },
     {
@@ -5123,7 +5123,7 @@
     },
     {
       "appid": 2980270,
-      "icon_hash": "930059a5070f90c3c60e10b1a6297113875636cb",
+      "icon_hash": "58c31cf41e36ace783e1ae94c6390cc4445d7315",
       "last_played_unix": 1781569181,
       "name": "HackHub - Ultimate Hacker Simulator",
       "playtime_2weeks_minutes": null,
@@ -5508,6 +5508,6 @@
   ],
   "profile_url": "https://steamcommunity.com/profiles/76561198035296905/",
   "schema_version": 1,
-  "snapshot_updated_at": "2026-10-30T02:43:10Z",
+  "snapshot_updated_at": "2026-10-30T10:12:53Z",
   "steam_id": "76561198035296905"
 }
