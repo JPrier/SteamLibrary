@@ -4668,10 +4668,10 @@
     {
       "appid": 1867240,
       "icon_hash": "3478031915eb3bbb2e8835a209aeafe066cb0d92",
-      "last_played_unix": 1793243120,
+      "last_played_unix": 1793324383,
       "name": "WARDOGS",
-      "playtime_2weeks_minutes": 941,
-      "playtime_forever_minutes": 2673
+      "playtime_2weeks_minutes": 981,
+      "playtime_forever_minutes": 2797
     },
     {
       "appid": 1874880,
@@ -4814,7 +4814,7 @@
       "icon_hash": "0318de1440e1d615715f8092a58ae203761b5fad",
       "last_played_unix": 1792113565,
       "name": "SULFUR",
-      "playtime_2weeks_minutes": 24,
+      "playtime_2weeks_minutes": null,
       "playtime_forever_minutes": 62
     },
     {
@@ -5508,6 +5508,6 @@
   ],
   "profile_url": "https://steamcommunity.com/profiles/76561198035296905/",
   "schema_version": 1,
-  "snapshot_updated_at": "2026-10-29T19:00:18Z",
+  "snapshot_updated_at": "2026-10-30T02:43:10Z",
   "steam_id": "76561198035296905"
 }

@@ -1,16 +1,33 @@
 {
   "added": [],
-  "previous_snapshot_updated_at": "2026-10-29T05:59:11Z",
+  "previous_snapshot_updated_at": "2026-10-29T19:00:18Z",
   "removed": [],
   "schema_version": 1,
-  "snapshot_updated_at": "2026-10-29T19:00:18Z",
+  "snapshot_updated_at": "2026-10-30T02:43:10Z",
   "updated": [
     {
-      "appid": 2835570,
+      "appid": 1867240,
       "fields": {
-        "icon_hash": {
-          "after": "b813298efcd6e936076f721365f20b192fbbe556",
-          "before": "81779afdc4209795d9ccf7948514b9a227acf601"
+        "last_played_unix": {
+          "after": 1793324383,
+          "before": 1793243120
+        },
+        "playtime_2weeks_minutes": {
+          "after": 981,
+          "before": 941
+        },
+        "playtime_forever_minutes": {
+          "after": 2797,
+          "before": 2673
+        }
+      }
+    },
+    {
+      "appid": 2124120,
+      "fields": {
+        "playtime_2weeks_minutes": {
+          "after": null,
+          "before": 24
         }
       }
     }
