@@ -4668,10 +4668,10 @@
     {
       "appid": 1867240,
       "icon_hash": "3478031915eb3bbb2e8835a209aeafe066cb0d92",
-      "last_played_unix": 1793324383,
+      "last_played_unix": 1793558874,
       "name": "WARDOGS",
-      "playtime_2weeks_minutes": 966,
-      "playtime_forever_minutes": 2797
+      "playtime_2weeks_minutes": 996,
+      "playtime_forever_minutes": 2827
     },
     {
       "appid": 1874880,
@@ -5508,6 +5508,6 @@
   ],
   "profile_url": "https://steamcommunity.com/profiles/76561198035296905/",
   "schema_version": 1,
-  "snapshot_updated_at": "2026-10-30T10:12:53Z",
+  "snapshot_updated_at": "2026-11-01T19:00:21Z",
   "steam_id": "76561198035296905"
 }
