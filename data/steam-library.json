@@ -1,5 +1,5 @@
 {
-  "game_count": 688,
+  "game_count": 706,
   "games": [
     {
       "appid": 70,
@@ -546,6 +546,14 @@
       "playtime_forever_minutes": 2338
     },
     {
+      "appid": 91200,
+      "icon_hash": "8b8010ddbc76c7a445648f89162f453ea7e1e101",
+      "last_played_unix": 0,
+      "name": "Anomaly Warzone Earth",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
       "appid": 96000,
       "icon_hash": "190760c7966fda0b4be9605de836e031f448fc49",
       "last_played_unix": 0,
@@ -946,6 +954,14 @@
       "playtime_forever_minutes": 768
     },
     {
+      "appid": 236730,
+      "icon_hash": "d66d46a123de32d70f6cd57d31893a944a6b288c",
+      "last_played_unix": 0,
+      "name": "Anomaly 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
       "appid": 236870,
       "icon_hash": "a4c559b6a3a7706d2f6c44a84e1daa8532bee741",
       "last_played_unix": 1554859744,
@@ -1114,6 +1130,14 @@
       "playtime_forever_minutes": 0
     },
     {
+      "appid": 251530,
+      "icon_hash": "73a68174701b41d460a8e4bbdf9a4c173dc1ea8e",
+      "last_played_unix": 0,
+      "name": "Anomaly Korea",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
       "appid": 251570,
       "icon_hash": "f6515dd177b2992aebcb563151fbe836a600f364",
       "last_played_unix": 1540183620,
@@ -1128,6 +1152,14 @@
       "name": "Lovers in a Dangerous Spacetime",
       "playtime_2weeks_minutes": null,
       "playtime_forever_minutes": 127
+    },
+    {
+      "appid": 252170,
+      "icon_hash": "a517e477014e1d0373bba66dd13b84e36418ad3f",
+      "last_played_unix": 0,
+      "name": "Anomaly Warzone Earth Mobile Campaign",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
     },
     {
       "appid": 252370,
@@ -1224,6 +1256,14 @@
       "name": "Spintires®",
       "playtime_2weeks_minutes": null,
       "playtime_forever_minutes": 29
+    },
+    {
+      "appid": 263860,
+      "icon_hash": "aae9ba421f0577d56aa3b39ff48ac88d9d818b97",
+      "last_played_unix": 0,
+      "name": "SPACECOM",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
     },
     {
       "appid": 264710,
@@ -1458,6 +1498,14 @@
       "playtime_forever_minutes": 3529
     },
     {
+      "appid": 294750,
+      "icon_hash": "f732fdbf2db714e12846b635cabbb32e953684a9",
+      "last_played_unix": 0,
+      "name": "Anomaly Defenders",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
       "appid": 298110,
       "icon_hash": "be1366a047a515ed2275aa500a36a50de587b7a7",
       "last_played_unix": 0,
@@ -1662,6 +1710,14 @@
       "icon_hash": "735efd15df84e4a9ef9f64a980cd313f5ef325bf",
       "last_played_unix": 0,
       "name": "State of Decay: Year-One",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 330020,
+      "icon_hash": "29e179c5c7ac3aa6d3fb15ca5b19fd1124af4e7b",
+      "last_played_unix": 0,
+      "name": "Children of Morta",
       "playtime_2weeks_minutes": null,
       "playtime_forever_minutes": 0
     },
@@ -2426,6 +2482,14 @@
       "playtime_forever_minutes": 131
     },
     {
+      "appid": 461950,
+      "icon_hash": "8d40ef713e53fff5931a5d06077f74fb688a013b",
+      "last_played_unix": 0,
+      "name": "Beat Cop",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
       "appid": 464920,
       "icon_hash": "6c0bbf943ed725a16304161b89061ac1d37f6a2a",
       "last_played_unix": 1566187293,
@@ -2682,6 +2746,14 @@
       "playtime_forever_minutes": 64
     },
     {
+      "appid": 530950,
+      "icon_hash": "0f177a97e33b8d1965b27e9f4c3dfa262333c48e",
+      "last_played_unix": 0,
+      "name": "Tower 57",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
       "appid": 534380,
       "icon_hash": "4036cc941abaeeed5ee8bd433ca69388723f7f19",
       "last_played_unix": 1661482156,
@@ -2926,6 +2998,14 @@
       "icon_hash": "a0adb0f29ce819c6dffa32446624fb7648defc5a",
       "last_played_unix": 0,
       "name": "Barotrauma",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 606150,
+      "icon_hash": "13ffc570ce5bbe6a5a0c0eec567b87dab07cae25",
+      "last_played_unix": 0,
+      "name": "Moonlighter",
       "playtime_2weeks_minutes": null,
       "playtime_forever_minutes": 0
     },
@@ -3294,6 +3374,14 @@
       "icon_hash": "aba56aae141ef1495cef3534163beb1664b417c0",
       "last_played_unix": 0,
       "name": "Borderlands GOTY Enhanced",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 731040,
+      "icon_hash": "b27694fcee732620a7bd863ea47a5979c349ff6b",
+      "last_played_unix": 0,
+      "name": "The Invincible",
       "playtime_2weeks_minutes": null,
       "playtime_forever_minutes": 0
     },
@@ -4282,6 +4370,14 @@
       "playtime_forever_minutes": 20
     },
     {
+      "appid": 1373960,
+      "icon_hash": "3029a15f13070be45d00b1d49deffcf32d55678e",
+      "last_played_unix": 0,
+      "name": "INDIKA",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
       "appid": 1378290,
       "icon_hash": "06614d273068a32473835f6acdb327fdaa621e37",
       "last_played_unix": 1768165041,
@@ -4570,6 +4666,14 @@
       "playtime_forever_minutes": 488
     },
     {
+      "appid": 1684350,
+      "icon_hash": "cbe9185d27a6b35a2f0c913a4eb49da15c937a3f",
+      "last_played_unix": 0,
+      "name": "The Thaumaturge",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
       "appid": 1693980,
       "icon_hash": "3368d467f4f60f9f07ec4c206a22184fae060be2",
       "last_played_unix": 0,
@@ -4622,6 +4726,14 @@
       "icon_hash": "9b3bfcdf2ed8135883c809236d0cb6baf05a881d",
       "last_played_unix": 0,
       "name": "Solarpunk",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1811040,
+      "icon_hash": "f81ec9dc692979608751c9ae7456949a5e43e020",
+      "last_played_unix": 0,
+      "name": "South of the Circle",
       "playtime_2weeks_minutes": null,
       "playtime_forever_minutes": 0
     },
@@ -4694,6 +4806,14 @@
       "icon_hash": "cc4ccaea0621ec054334edb07c00c834bf496056",
       "last_played_unix": 0,
       "name": "Arma Reforger Experimental",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1898290,
+      "icon_hash": "29cb341d378ebb9220bfafaa46811e2c5371af9c",
+      "last_played_unix": 0,
+      "name": "LEGO® Bricktales",
       "playtime_2weeks_minutes": null,
       "playtime_forever_minutes": 0
     },
@@ -4866,12 +4986,28 @@
       "playtime_forever_minutes": 30
     },
     {
+      "appid": 2304440,
+      "icon_hash": "c2c41bd127ed401014c0c7e58ef5f2ede4624ffe",
+      "last_played_unix": 0,
+      "name": "Creatures of Ava",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
       "appid": 2348100,
       "icon_hash": "97c381bbf540f64c402ea19ee4a807232fa7684f",
       "last_played_unix": 1698280028,
       "name": "YEAH! YOU WANT \"THOSE GAMES,\" RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM!",
       "playtime_2weeks_minutes": null,
       "playtime_forever_minutes": 224
+    },
+    {
+      "appid": 2350790,
+      "icon_hash": "d81f04ab67d598bcf786925d7c9295dac67d070f",
+      "last_played_unix": 0,
+      "name": "Moonlighter 2: The Endless Vault",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
     },
     {
       "appid": 2369390,
@@ -5056,6 +5192,14 @@
       "name": "Aquapark Tycoon",
       "playtime_2weeks_minutes": null,
       "playtime_forever_minutes": 47
+    },
+    {
+      "appid": 2825880,
+      "icon_hash": "cdeaf947bc0c3d1e60e8708413ae829c6d2c4f66",
+      "last_played_unix": 0,
+      "name": "Death Howl",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
     },
     {
       "appid": 2835570,
@@ -5500,14 +5644,14 @@
     {
       "appid": 5335510,
       "icon_hash": "aec99ceb3e40d5b7f9ed94a9200878bd9d65bf76",
-      "last_played_unix": 0,
+      "last_played_unix": 1793652801,
       "name": "Moon Sweepers",
-      "playtime_2weeks_minutes": null,
-      "playtime_forever_minutes": 0
+      "playtime_2weeks_minutes": 34,
+      "playtime_forever_minutes": 34
     }
   ],
   "profile_url": "https://steamcommunity.com/profiles/76561198035296905/",
   "schema_version": 1,
-  "snapshot_updated_at": "2026-11-01T22:54:35Z",
+  "snapshot_updated_at": "2026-11-02T21:49:13Z",
   "steam_id": "76561198035296905"
 }

@@ -1,24 +1,169 @@
 {
-  "added": [],
-  "previous_snapshot_updated_at": "2026-11-01T19:00:21Z",
+  "added": [
+    {
+      "appid": 91200,
+      "icon_hash": "8b8010ddbc76c7a445648f89162f453ea7e1e101",
+      "last_played_unix": 0,
+      "name": "Anomaly Warzone Earth",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 236730,
+      "icon_hash": "d66d46a123de32d70f6cd57d31893a944a6b288c",
+      "last_played_unix": 0,
+      "name": "Anomaly 2",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 251530,
+      "icon_hash": "73a68174701b41d460a8e4bbdf9a4c173dc1ea8e",
+      "last_played_unix": 0,
+      "name": "Anomaly Korea",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 252170,
+      "icon_hash": "a517e477014e1d0373bba66dd13b84e36418ad3f",
+      "last_played_unix": 0,
+      "name": "Anomaly Warzone Earth Mobile Campaign",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 263860,
+      "icon_hash": "aae9ba421f0577d56aa3b39ff48ac88d9d818b97",
+      "last_played_unix": 0,
+      "name": "SPACECOM",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 294750,
+      "icon_hash": "f732fdbf2db714e12846b635cabbb32e953684a9",
+      "last_played_unix": 0,
+      "name": "Anomaly Defenders",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 330020,
+      "icon_hash": "29e179c5c7ac3aa6d3fb15ca5b19fd1124af4e7b",
+      "last_played_unix": 0,
+      "name": "Children of Morta",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 461950,
+      "icon_hash": "8d40ef713e53fff5931a5d06077f74fb688a013b",
+      "last_played_unix": 0,
+      "name": "Beat Cop",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 530950,
+      "icon_hash": "0f177a97e33b8d1965b27e9f4c3dfa262333c48e",
+      "last_played_unix": 0,
+      "name": "Tower 57",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 606150,
+      "icon_hash": "13ffc570ce5bbe6a5a0c0eec567b87dab07cae25",
+      "last_played_unix": 0,
+      "name": "Moonlighter",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 731040,
+      "icon_hash": "b27694fcee732620a7bd863ea47a5979c349ff6b",
+      "last_played_unix": 0,
+      "name": "The Invincible",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1373960,
+      "icon_hash": "3029a15f13070be45d00b1d49deffcf32d55678e",
+      "last_played_unix": 0,
+      "name": "INDIKA",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1684350,
+      "icon_hash": "cbe9185d27a6b35a2f0c913a4eb49da15c937a3f",
+      "last_played_unix": 0,
+      "name": "The Thaumaturge",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1811040,
+      "icon_hash": "f81ec9dc692979608751c9ae7456949a5e43e020",
+      "last_played_unix": 0,
+      "name": "South of the Circle",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 1898290,
+      "icon_hash": "29cb341d378ebb9220bfafaa46811e2c5371af9c",
+      "last_played_unix": 0,
+      "name": "LEGO® Bricktales",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2304440,
+      "icon_hash": "c2c41bd127ed401014c0c7e58ef5f2ede4624ffe",
+      "last_played_unix": 0,
+      "name": "Creatures of Ava",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2350790,
+      "icon_hash": "d81f04ab67d598bcf786925d7c9295dac67d070f",
+      "last_played_unix": 0,
+      "name": "Moonlighter 2: The Endless Vault",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    },
+    {
+      "appid": 2825880,
+      "icon_hash": "cdeaf947bc0c3d1e60e8708413ae829c6d2c4f66",
+      "last_played_unix": 0,
+      "name": "Death Howl",
+      "playtime_2weeks_minutes": null,
+      "playtime_forever_minutes": 0
+    }
+  ],
+  "previous_snapshot_updated_at": "2026-11-01T22:54:35Z",
   "removed": [],
   "schema_version": 1,
-  "snapshot_updated_at": "2026-11-01T22:54:35Z",
+  "snapshot_updated_at": "2026-11-02T21:49:13Z",
   "updated": [
     {
-      "appid": 1867240,
+      "appid": 5335510,
       "fields": {
         "last_played_unix": {
-          "after": 1793561055,
-          "before": 1793558874
+          "after": 1793652801,
+          "before": 0
         },
         "playtime_2weeks_minutes": {
-          "after": 1033,
-          "before": 996
+          "after": 34,
+          "before": null
         },
         "playtime_forever_minutes": {
-          "after": 2864,
-          "before": 2827
+          "after": 34,
+          "before": 0
         }
       }
     }
