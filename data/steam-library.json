@@ -5644,14 +5644,14 @@
     {
       "appid": 5335510,
       "icon_hash": "aec99ceb3e40d5b7f9ed94a9200878bd9d65bf76",
-      "last_played_unix": 1793652801,
+      "last_played_unix": 1793675308,
       "name": "Moon Sweepers",
-      "playtime_2weeks_minutes": 34,
-      "playtime_forever_minutes": 34
+      "playtime_2weeks_minutes": 244,
+      "playtime_forever_minutes": 244
     }
   ],
   "profile_url": "https://steamcommunity.com/profiles/76561198035296905/",
   "schema_version": 1,
-  "snapshot_updated_at": "2026-11-02T21:49:13Z",
+  "snapshot_updated_at": "2026-11-03T03:30:14Z",
   "steam_id": "76561198035296905"
 }
