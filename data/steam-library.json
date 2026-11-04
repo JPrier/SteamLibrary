@@ -326,7 +326,7 @@
       "icon_hash": "fd29235b1565127a71fd1065a4347d4ea780f1fc",
       "last_played_unix": 1793214446,
       "name": "The Saboteur™",
-      "playtime_2weeks_minutes": 1398,
+      "playtime_2weeks_minutes": 1314,
       "playtime_forever_minutes": 1408
     },
     {
@@ -4780,10 +4780,10 @@
     {
       "appid": 1867240,
       "icon_hash": "3478031915eb3bbb2e8835a209aeafe066cb0d92",
-      "last_played_unix": 1793751661,
+      "last_played_unix": 1793762937,
       "name": "WARDOGS",
-      "playtime_2weeks_minutes": 1063,
-      "playtime_forever_minutes": 2894
+      "playtime_2weeks_minutes": 1251,
+      "playtime_forever_minutes": 3082
     },
     {
       "appid": 1874880,
@@ -5652,6 +5652,6 @@
   ],
   "profile_url": "https://steamcommunity.com/profiles/76561198035296905/",
   "schema_version": 1,
-  "snapshot_updated_at": "2026-11-04T00:41:17Z",
+  "snapshot_updated_at": "2026-11-04T07:34:28Z",
   "steam_id": "76561198035296905"
 }
