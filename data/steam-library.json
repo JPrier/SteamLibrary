@@ -326,7 +326,7 @@
       "icon_hash": "fd29235b1565127a71fd1065a4347d4ea780f1fc",
       "last_played_unix": 1793214446,
       "name": "The Saboteur™",
-      "playtime_2weeks_minutes": 1399,
+      "playtime_2weeks_minutes": 1398,
       "playtime_forever_minutes": 1408
     },
     {
@@ -4780,10 +4780,10 @@
     {
       "appid": 1867240,
       "icon_hash": "3478031915eb3bbb2e8835a209aeafe066cb0d92",
-      "last_played_unix": 1793561055,
+      "last_played_unix": 1793751661,
       "name": "WARDOGS",
-      "playtime_2weeks_minutes": 1033,
-      "playtime_forever_minutes": 2864
+      "playtime_2weeks_minutes": 1063,
+      "playtime_forever_minutes": 2894
     },
     {
       "appid": 1874880,
@@ -5622,7 +5622,7 @@
       "icon_hash": "eaf76b60d7139f4e5c4a142579c62476872c85d6",
       "last_played_unix": 1792535408,
       "name": "framepacer",
-      "playtime_2weeks_minutes": 1,
+      "playtime_2weeks_minutes": null,
       "playtime_forever_minutes": 5841
     },
     {
@@ -5644,14 +5644,14 @@
     {
       "appid": 5335510,
       "icon_hash": "aec99ceb3e40d5b7f9ed94a9200878bd9d65bf76",
-      "last_played_unix": 1793732924,
+      "last_played_unix": 1793749851,
       "name": "Moon Sweepers",
-      "playtime_2weeks_minutes": 589,
-      "playtime_forever_minutes": 589
+      "playtime_2weeks_minutes": 849,
+      "playtime_forever_minutes": 849
     }
   ],
   "profile_url": "https://steamcommunity.com/profiles/76561198035296905/",
   "schema_version": 1,
-  "snapshot_updated_at": "2026-11-03T19:37:01Z",
+  "snapshot_updated_at": "2026-11-04T00:41:17Z",
   "steam_id": "76561198035296905"
 }
